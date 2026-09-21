@@ -1,0 +1,27 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/home"
+  ],
+  "paths": [
+    "gno.land/r/moul/home"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/home": [
+      "home.gno",
+      "render.gno"
+    ]
+  },
+  "new": [
+    "gno.land/r/moul/home"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/home",
+      "after": "_shots/r-moul-home-1ef04c00-after.png",
+      "url": "r/moul/home/",
+      "new": true
+    }
+  ],
+  "pages": 6
+}
