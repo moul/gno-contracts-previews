@@ -1,0 +1,23 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/hello/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/hello/v0"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/hello/v0": [
+      "hello.gno"
+    ]
+  },
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/hello/v0",
+      "before": "_shots/r-moul-hello-v0-ec3e6319-before.png",
+      "after": "_shots/r-moul-hello-v0-ec3e6319-after.png",
+      "url": "r/moul/hello/v0/"
+    }
+  ],
+  "pages": 6
+}
