@@ -1,0 +1,34 @@
+<table><tr>
+<td><b><code>gno.land/r/moul/config/v0</code></b><table><tr><td width="50%" align="center"><a href="https://moul.github.io/gno-contracts-previews/pr-175/r/moul/config/v0/"><img src="https://moul.github.io/gno-contracts-previews/pr-175/_shots/r-moul-config-v0-e795e973-before.png" width="100%" alt="before"></a><br><sub>before</sub></td><td width="50%" align="center"><a href="https://moul.github.io/gno-contracts-previews/pr-175/r/moul/config/v0/"><img src="https://moul.github.io/gno-contracts-previews/pr-175/_shots/r-moul-config-v0-e795e973-after.png" width="100%" alt="after"></a><br><sub>after</sub></td></tr></table></td>
+<td><b><code>gno.land/r/moul/demo/args/v0</code></b><table><tr><td width="50%" align="center"><a href="https://moul.github.io/gno-contracts-previews/pr-175/r/moul/demo/args/v0/"><img src="https://moul.github.io/gno-contracts-previews/pr-175/_shots/r-moul-demo-args-v0-5e1a2a43-before.png" width="100%" alt="before"></a><br><sub>before</sub></td><td width="50%" align="center"><a href="https://moul.github.io/gno-contracts-previews/pr-175/r/moul/demo/args/v0/"><img src="https://moul.github.io/gno-contracts-previews/pr-175/_shots/r-moul-demo-args-v0-5e1a2a43-after.png" width="100%" alt="after"></a><br><sub>after</sub></td></tr></table></td>
+</tr></table>
+
+- [`gno.land/r/moul/config/v0`](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/config/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/config/v0/_t/source/)
+- [`gno.land/r/moul/demo/args/v0`](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/demo/args/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/demo/args/v0/_t/source/)
+- [`gno.land/r/moul/demo/data/v0`](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/demo/data/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/demo/data/v0/_t/source/)
+- [`gno.land/r/moul/demo/grc20/v0`](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/demo/grc20/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/demo/grc20/v0/_t/source/)
+- [`gno.land/r/moul/demo/hello/v0`](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/demo/hello/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/demo/hello/v0/_t/source/)
+- [`gno.land/r/moul/demo/render/v0`](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/demo/render/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/demo/render/v0/_t/source/)
+- [`gno.land/r/moul/demo/vault/v0`](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/demo/vault/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/demo/vault/v0/_t/source/)
+- [`gno.land/r/moul/demo/wikicoin/v0`](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/demo/wikicoin/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/demo/wikicoin/v0/_t/source/)
+- [`gno.land/r/moul/home/v0`](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/home/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/home/v0/_t/source/)
+- [`gno.land/r/moul/outfmt/v0`](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/outfmt/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/outfmt/v0/_t/source/)
+- [`gno.land/r/moul/present/v0`](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/present/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/r/moul/present/v0/_t/source/)
+- [`gno.land/p/moul/cow/v0`](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/cow/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/cow/v0/_t/source/)
+- [`gno.land/p/moul/debug/v0`](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/debug/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/debug/v0/_t/source/)
+- [`gno.land/p/moul/deque/v0`](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/deque/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/deque/v0/_t/source/)
+- [`gno.land/p/moul/entity/v0`](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/entity/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/entity/v0/_t/source/)
+- [`gno.land/p/moul/errs/v0`](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/errs/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/errs/v0/_t/source/)
+- [`gno.land/p/moul/fp/v0`](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/fp/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/fp/v0/_t/source/)
+- [`gno.land/p/moul/mdlist/v0`](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/mdlist/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/mdlist/v0/_t/source/)
+- [`gno.land/p/moul/nestedpkg/v0`](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/nestedpkg/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/nestedpkg/v0/_t/source/)
+- [`gno.land/p/moul/ownable/v0`](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/ownable/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/ownable/v0/_t/source/)
+- [`gno.land/p/moul/pageable/v0`](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/pageable/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/pageable/v0/_t/source/)
+- [`gno.land/p/moul/printfdebugging/v0`](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/printfdebugging/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/printfdebugging/v0/_t/source/)
+- [`gno.land/p/moul/safe/v0`](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/safe/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/safe/v0/_t/source/)
+- [`gno.land/p/moul/template/v0`](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/template/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/template/v0/_t/source/)
+- [`gno.land/p/moul/udao/v0`](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/udao/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/udao/v0/_t/source/)
+- [`gno.land/p/moul/web25/v0`](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/web25/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/web25/v0/_t/source/)
+- [`gno.land/p/moul/xdao/v0`](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/xdao/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/xdao/v0/_t/source/)
+- [`gno.land/p/moul/xmath/v0`](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/xmath/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-175/p/moul/xmath/v0/_t/source/)
+- _3 more affected package(s) not rendered (cap)_
