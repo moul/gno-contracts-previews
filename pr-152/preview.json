@@ -1,0 +1,182 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/asciiart/v1",
+    "gno.land/r/moul/x/daily/bullscows/v1",
+    "gno.land/r/moul/x/daily/closestguess/v1",
+    "gno.land/r/moul/x/daily/coinflipduel/v1",
+    "gno.land/r/moul/x/daily/commitrevealdemo/v1",
+    "gno.land/r/moul/x/daily/connect4/v1",
+    "gno.land/r/moul/x/daily/eggling/v1",
+    "gno.land/r/moul/x/daily/eightball/v1",
+    "gno.land/r/moul/x/daily/escrow/v1",
+    "gno.land/r/moul/x/daily/guestbook/v1",
+    "gno.land/r/moul/x/daily/handles/v1",
+    "gno.land/r/moul/x/daily/kingofdice/v1",
+    "gno.land/r/moul/x/daily/leaderboard/v1",
+    "gno.land/r/moul/x/daily/microblog/v1",
+    "gno.land/r/moul/x/daily/moodstone/v1",
+    "gno.land/r/moul/x/daily/qvote/v1",
+    "gno.land/r/moul/x/daily/rps/v1",
+    "gno.land/r/moul/x/daily/rpsduel/v1",
+    "gno.land/r/moul/x/daily/rpsmatch/v1",
+    "gno.land/r/moul/x/daily/rpsoracle/v1",
+    "gno.land/r/moul/x/daily/streaks/v1",
+    "gno.land/r/moul/x/daily/tamagotchi/v1",
+    "gno.land/r/moul/x/daily/tipjar/v1",
+    "gno.land/r/moul/x/daily/todos/v1",
+    "gno.land/r/moul/x/daily/urlshort/v1",
+    "gno.land/p/moul/kit/ui/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/asciiart/v1",
+    "gno.land/r/moul/x/daily/bullscows/v1",
+    "gno.land/r/moul/x/daily/closestguess/v1",
+    "gno.land/r/moul/x/daily/coinflipduel/v1",
+    "gno.land/r/moul/x/daily/commitrevealdemo/v1",
+    "gno.land/r/moul/x/daily/connect4/v1",
+    "gno.land/r/moul/x/daily/eggling/v1",
+    "gno.land/r/moul/x/daily/eightball/v1",
+    "gno.land/r/moul/x/daily/escrow/v1",
+    "gno.land/r/moul/x/daily/guestbook/v1",
+    "gno.land/r/moul/x/daily/handles/v1",
+    "gno.land/r/moul/x/daily/kingofdice/v1",
+    "gno.land/r/moul/x/daily/leaderboard/v1",
+    "gno.land/r/moul/x/daily/microblog/v1",
+    "gno.land/r/moul/x/daily/moodstone/v1",
+    "gno.land/r/moul/x/daily/qvote/v1",
+    "gno.land/r/moul/x/daily/rps/v1",
+    "gno.land/r/moul/x/daily/rpsduel/v1",
+    "gno.land/r/moul/x/daily/rpsmatch/v1",
+    "gno.land/r/moul/x/daily/rpsoracle/v1",
+    "gno.land/r/moul/x/daily/streaks/v1",
+    "gno.land/r/moul/x/daily/tamagotchi/v1",
+    "gno.land/r/moul/x/daily/tipjar/v1",
+    "gno.land/r/moul/x/daily/todos/v1",
+    "gno.land/r/moul/x/daily/urlshort/v1"
+  ],
+  "dropped": 1,
+  "changed_files": {
+    "gno.land/p/moul/kit/ui/v0": [
+      "ui.gno"
+    ],
+    "gno.land/r/moul/x/daily/asciiart/v1": [
+      "asciiart.gno"
+    ],
+    "gno.land/r/moul/x/daily/bullscows/v1": [
+      "bullscows.gno"
+    ],
+    "gno.land/r/moul/x/daily/closestguess/v1": [
+      "closestguess.gno"
+    ],
+    "gno.land/r/moul/x/daily/coinflipduel/v1": [
+      "coinflipduel.gno"
+    ],
+    "gno.land/r/moul/x/daily/commitrevealdemo/v1": [
+      "commitrevealdemo.gno"
+    ],
+    "gno.land/r/moul/x/daily/connect4/v1": [
+      "connect4.gno"
+    ],
+    "gno.land/r/moul/x/daily/eggling/v1": [
+      "eggling.gno"
+    ],
+    "gno.land/r/moul/x/daily/eightball/v1": [
+      "eightball.gno"
+    ],
+    "gno.land/r/moul/x/daily/escrow/v1": [
+      "escrow.gno"
+    ],
+    "gno.land/r/moul/x/daily/guestbook/v1": [
+      "guestbook.gno"
+    ],
+    "gno.land/r/moul/x/daily/handles/v1": [
+      "handles.gno"
+    ],
+    "gno.land/r/moul/x/daily/kingofdice/v1": [
+      "kingofdice.gno"
+    ],
+    "gno.land/r/moul/x/daily/leaderboard/v1": [
+      "leaderboard.gno"
+    ],
+    "gno.land/r/moul/x/daily/microblog/v1": [
+      "microblog.gno"
+    ],
+    "gno.land/r/moul/x/daily/moodstone/v1": [
+      "moodstone.gno"
+    ],
+    "gno.land/r/moul/x/daily/qvote/v1": [
+      "qvote.gno"
+    ],
+    "gno.land/r/moul/x/daily/rps/v1": [
+      "rps.gno"
+    ],
+    "gno.land/r/moul/x/daily/rpsduel/v1": [
+      "rpsduel.gno"
+    ],
+    "gno.land/r/moul/x/daily/rpsmatch/v1": [
+      "rpsmatch.gno"
+    ],
+    "gno.land/r/moul/x/daily/rpsoracle/v1": [
+      "rpsoracle.gno"
+    ],
+    "gno.land/r/moul/x/daily/streaks/v1": [
+      "streaks.gno"
+    ],
+    "gno.land/r/moul/x/daily/tamagotchi/v1": [
+      "tamagotchi.gno"
+    ],
+    "gno.land/r/moul/x/daily/tipjar/v1": [
+      "tipjar.gno"
+    ],
+    "gno.land/r/moul/x/daily/todos/v1": [
+      "todos.gno"
+    ],
+    "gno.land/r/moul/x/daily/urlshort/v1": [
+      "urlshort.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/kit/ui/v0",
+    "gno.land/r/moul/x/daily/asciiart/v1",
+    "gno.land/r/moul/x/daily/bullscows/v1",
+    "gno.land/r/moul/x/daily/closestguess/v1",
+    "gno.land/r/moul/x/daily/coinflipduel/v1",
+    "gno.land/r/moul/x/daily/commitrevealdemo/v1",
+    "gno.land/r/moul/x/daily/connect4/v1",
+    "gno.land/r/moul/x/daily/eggling/v1",
+    "gno.land/r/moul/x/daily/eightball/v1",
+    "gno.land/r/moul/x/daily/escrow/v1",
+    "gno.land/r/moul/x/daily/guestbook/v1",
+    "gno.land/r/moul/x/daily/handles/v1",
+    "gno.land/r/moul/x/daily/kingofdice/v1",
+    "gno.land/r/moul/x/daily/leaderboard/v1",
+    "gno.land/r/moul/x/daily/microblog/v1",
+    "gno.land/r/moul/x/daily/moodstone/v1",
+    "gno.land/r/moul/x/daily/qvote/v1",
+    "gno.land/r/moul/x/daily/rps/v1",
+    "gno.land/r/moul/x/daily/rpsduel/v1",
+    "gno.land/r/moul/x/daily/rpsmatch/v1",
+    "gno.land/r/moul/x/daily/rpsoracle/v1",
+    "gno.land/r/moul/x/daily/streaks/v1",
+    "gno.land/r/moul/x/daily/tamagotchi/v1",
+    "gno.land/r/moul/x/daily/tipjar/v1",
+    "gno.land/r/moul/x/daily/todos/v1",
+    "gno.land/r/moul/x/daily/urlshort/v1"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/asciiart/v1",
+      "after": "_shots/r-moul-x-daily-asciiart-v1-5b45b9f9-after.png",
+      "url": "r/moul/x/daily/asciiart/v1/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/r/moul/x/daily/bullscows/v1",
+      "after": "_shots/r-moul-x-daily-bullscows-v1-41c9e78e-after.png",
+      "url": "r/moul/x/daily/bullscows/v1/",
+      "new": true
+    }
+  ],
+  "pages": 128
+}
