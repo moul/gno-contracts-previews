@@ -1,0 +1,18 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/rpsoracle/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/rpsoracle/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/rpsoracle/v0",
+      "before": "_shots/r-moul-x-daily-rpsoracle-v0-d7022890-before.png",
+      "after": "_shots/r-moul-x-daily-rpsoracle-v0-d7022890-after.png",
+      "url": "r/moul/x/daily/rpsoracle/v0/"
+    }
+  ],
+  "pages": 7
+}
