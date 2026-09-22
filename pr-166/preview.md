@@ -1,0 +1,12 @@
+<table><tr>
+<td><b><code>gno.land/r/moul/x/framelab/probe/v0</code></b><table><tr><td align="center"><sub>new in this PR</sub></td><td width="50%" align="center"><a href="https://moul.github.io/gno-contracts-previews/pr-166/r/moul/x/framelab/probe/v0/"><img src="https://moul.github.io/gno-contracts-previews/pr-166/_shots/r-moul-x-framelab-probe-v0-490dcb5c-after.png" width="100%" alt="after"></a><br><sub>after</sub></td></tr></table></td>
+<td><b><code>gno.land/r/moul/x/pairreg/v0</code></b><table><tr><td align="center"><sub>new in this PR</sub></td><td width="50%" align="center"><a href="https://moul.github.io/gno-contracts-previews/pr-166/r/moul/x/pairreg/v0/"><img src="https://moul.github.io/gno-contracts-previews/pr-166/_shots/r-moul-x-pairreg-v0-2d251ea2-after.png" width="100%" alt="after"></a><br><sub>after</sub></td></tr></table></td>
+</tr></table>
+
+- [`gno.land/r/moul/x/framelab/probe/v0`](https://moul.github.io/gno-contracts-previews/pr-166/r/moul/x/framelab/probe/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-166/r/moul/x/framelab/probe/v0/_t/source/) · **new**
+- [`gno.land/r/moul/x/pairreg/v0`](https://moul.github.io/gno-contracts-previews/pr-166/r/moul/x/pairreg/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-166/r/moul/x/pairreg/v0/_t/source/) · **new**
+- [`gno.land/r/moul/x/pairs/aaa/v0`](https://moul.github.io/gno-contracts-previews/pr-166/r/moul/x/pairs/aaa/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-166/r/moul/x/pairs/aaa/v0/_t/source/) · **new**
+- [`gno.land/r/moul/x/pairs/aaabbb/v0`](https://moul.github.io/gno-contracts-previews/pr-166/r/moul/x/pairs/aaabbb/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-166/r/moul/x/pairs/aaabbb/v0/_t/source/) · **new**
+- [`gno.land/r/moul/x/pairs/bbb/v0`](https://moul.github.io/gno-contracts-previews/pr-166/r/moul/x/pairs/bbb/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-166/r/moul/x/pairs/bbb/v0/_t/source/) · **new**
+- [`gno.land/p/moul/x/framelab/v0`](https://moul.github.io/gno-contracts-previews/pr-166/p/moul/x/framelab/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-166/p/moul/x/framelab/v0/_t/source/) · **new**
+- [`gno.land/p/moul/x/pair/v0`](https://moul.github.io/gno-contracts-previews/pr-166/p/moul/x/pair/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-166/p/moul/x/pair/v0/_t/source/) · **new**

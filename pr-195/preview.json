@@ -1,0 +1,18 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/home"
+  ],
+  "paths": [
+    "gno.land/r/moul/home"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/home",
+      "before": "_shots/r-moul-home-1ef04c00-before.png",
+      "after": "_shots/r-moul-home-1ef04c00-after.png",
+      "url": "r/moul/home/"
+    }
+  ],
+  "pages": 4
+}
