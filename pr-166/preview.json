@@ -1,0 +1,68 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/framelab/probe/v0",
+    "gno.land/r/moul/x/pairreg/v0",
+    "gno.land/r/moul/x/pairs/aaa/v0",
+    "gno.land/r/moul/x/pairs/aaabbb/v0",
+    "gno.land/r/moul/x/pairs/bbb/v0",
+    "gno.land/p/moul/x/framelab/v0",
+    "gno.land/p/moul/x/pair/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/framelab/probe/v0",
+    "gno.land/r/moul/x/pairreg/v0",
+    "gno.land/r/moul/x/pairs/aaa/v0",
+    "gno.land/r/moul/x/pairs/aaabbb/v0",
+    "gno.land/r/moul/x/pairs/bbb/v0",
+    "gno.land/p/moul/x/framelab/v0",
+    "gno.land/p/moul/x/pair/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/framelab/v0": [
+      "framelab.gno"
+    ],
+    "gno.land/p/moul/x/pair/v0": [
+      "pair.gno"
+    ],
+    "gno.land/r/moul/x/framelab/probe/v0": [
+      "probe.gno"
+    ],
+    "gno.land/r/moul/x/pairreg/v0": [
+      "pairreg.gno"
+    ],
+    "gno.land/r/moul/x/pairs/aaa/v0": [
+      "aaa.gno"
+    ],
+    "gno.land/r/moul/x/pairs/aaabbb/v0": [
+      "aaabbb.gno"
+    ],
+    "gno.land/r/moul/x/pairs/bbb/v0": [
+      "bbb.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/framelab/v0",
+    "gno.land/p/moul/x/pair/v0",
+    "gno.land/r/moul/x/framelab/probe/v0",
+    "gno.land/r/moul/x/pairreg/v0",
+    "gno.land/r/moul/x/pairs/aaa/v0",
+    "gno.land/r/moul/x/pairs/aaabbb/v0",
+    "gno.land/r/moul/x/pairs/bbb/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/framelab/probe/v0",
+      "after": "_shots/r-moul-x-framelab-probe-v0-490dcb5c-after.png",
+      "url": "r/moul/x/framelab/probe/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/r/moul/x/pairreg/v0",
+      "after": "_shots/r-moul-x-pairreg-v0-2d251ea2-after.png",
+      "url": "r/moul/x/pairreg/v0/",
+      "new": true
+    }
+  ],
+  "pages": 48
+}
