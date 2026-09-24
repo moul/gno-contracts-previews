@@ -1,0 +1,36 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/plan9/dev/v0",
+    "gno.land/r/moul/x/plan9/ns/v0",
+    "gno.land/p/moul/x/plan9/memfs/v0",
+    "gno.land/p/moul/x/plan9/ninep/v0",
+    "gno.land/p/moul/x/plan9/ns/v0",
+    "gno.land/p/moul/x/plan9/rc/v0",
+    "gno.land/p/moul/x/plan9/synfs/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/plan9/dev/v0",
+    "gno.land/r/moul/x/plan9/ns/v0",
+    "gno.land/p/moul/x/plan9/memfs/v0",
+    "gno.land/p/moul/x/plan9/ninep/v0",
+    "gno.land/p/moul/x/plan9/ns/v0",
+    "gno.land/p/moul/x/plan9/rc/v0",
+    "gno.land/p/moul/x/plan9/synfs/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/plan9/dev/v0",
+      "before": "_shots/r-moul-x-plan9-dev-v0-4d2aaeb5-before.png",
+      "after": "_shots/r-moul-x-plan9-dev-v0-4d2aaeb5-after.png",
+      "url": "r/moul/x/plan9/dev/v0/"
+    },
+    {
+      "pkg": "gno.land/r/moul/x/plan9/ns/v0",
+      "before": "_shots/r-moul-x-plan9-ns-v0-62a09f72-before.png",
+      "after": "_shots/r-moul-x-plan9-ns-v0-62a09f72-after.png",
+      "url": "r/moul/x/plan9/ns/v0/"
+    }
+  ],
+  "pages": 34
+}
