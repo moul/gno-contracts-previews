@@ -1,0 +1,89 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/config/v1",
+    "gno.land/r/moul/demo/args/v0",
+    "gno.land/r/moul/demo/hello/v0",
+    "gno.land/r/moul/faucet/v0",
+    "gno.land/r/moul/forge/v0",
+    "gno.land/r/moul/home",
+    "gno.land/r/moul/x/daily/blog/v1",
+    "gno.land/r/moul/x/daily/counter/v0",
+    "gno.land/r/moul/x/daily/dice/v0",
+    "gno.land/r/moul/x/daily/erc20/v0",
+    "gno.land/r/moul/x/daily/faucet/v0",
+    "gno.land/r/moul/x/daily/guestbook/v1",
+    "gno.land/r/moul/x/daily/hangman/v0",
+    "gno.land/r/moul/x/daily/kingofdice/v1",
+    "gno.land/r/moul/x/daily/leaderboard/v1",
+    "gno.land/r/moul/x/daily/microblog/v1",
+    "gno.land/r/moul/x/daily/moodstone/v1",
+    "gno.land/r/moul/x/daily/polls/v0",
+    "gno.land/r/moul/x/daily/quotes/v0",
+    "gno.land/r/moul/x/daily/ringlog/v0",
+    "gno.land/r/moul/x/daily/rps/v1",
+    "gno.land/r/moul/x/daily/rpsduel/v1",
+    "gno.land/r/moul/x/daily/rpsmatch/v1",
+    "gno.land/r/moul/x/daily/rpsoracle/v1",
+    "gno.land/r/moul/x/daily/todos/v1",
+    "gno.land/r/moul/x/daily/trivia/v0",
+    "gno.land/r/moul/x/daily/wordle/v0",
+    "gno.land/r/moul/x/wiki/v0"
+  ],
+  "dependents": [
+    "gno.land/r/moul/blog",
+    "gno.land/r/moul/x/allinone/devtools/v0",
+    "gno.land/r/moul/x/allinone/textlab/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/config/v1",
+    "gno.land/r/moul/demo/args/v0",
+    "gno.land/r/moul/demo/hello/v0",
+    "gno.land/r/moul/faucet/v0",
+    "gno.land/r/moul/forge/v0",
+    "gno.land/r/moul/home",
+    "gno.land/r/moul/x/daily/blog/v1",
+    "gno.land/r/moul/x/daily/counter/v0",
+    "gno.land/r/moul/x/daily/dice/v0",
+    "gno.land/r/moul/x/daily/erc20/v0",
+    "gno.land/r/moul/x/daily/faucet/v0",
+    "gno.land/r/moul/x/daily/guestbook/v1",
+    "gno.land/r/moul/x/daily/hangman/v0",
+    "gno.land/r/moul/x/daily/kingofdice/v1",
+    "gno.land/r/moul/x/daily/leaderboard/v1",
+    "gno.land/r/moul/x/daily/microblog/v1",
+    "gno.land/r/moul/x/daily/moodstone/v1",
+    "gno.land/r/moul/x/daily/polls/v0",
+    "gno.land/r/moul/x/daily/quotes/v0",
+    "gno.land/r/moul/x/daily/ringlog/v0",
+    "gno.land/r/moul/x/daily/rps/v1",
+    "gno.land/r/moul/x/daily/rpsduel/v1",
+    "gno.land/r/moul/x/daily/rpsmatch/v1",
+    "gno.land/r/moul/x/daily/rpsoracle/v1",
+    "gno.land/r/moul/x/daily/todos/v1"
+  ],
+  "dropped": 6,
+  "changed_files": {
+    "gno.land/r/moul/forge/v0": [
+      "render.gno"
+    ],
+    "gno.land/r/moul/home": [
+      "render.gno"
+    ]
+  },
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/config/v1",
+      "before": "_shots/r-moul-config-v1-29caebb9-before.png",
+      "after": "_shots/r-moul-config-v1-29caebb9-after.png",
+      "url": "r/moul/config/v1/"
+    },
+    {
+      "pkg": "gno.land/r/moul/demo/args/v0",
+      "before": "_shots/r-moul-demo-args-v0-5e1a2a43-before.png",
+      "after": "_shots/r-moul-demo-args-v0-5e1a2a43-after.png",
+      "url": "r/moul/demo/args/v0/"
+    }
+  ],
+  "pages": 106
+}
