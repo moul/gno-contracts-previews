@@ -1,0 +1,39 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/games/idle/v0",
+    "gno.land/p/moul/x/games/accrual/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/games/idle/v0",
+    "gno.land/p/moul/x/games/accrual/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/games/accrual/v0": [
+      "accrual.gno"
+    ],
+    "gno.land/r/moul/x/games/idle/v0": [
+      "idle.gno",
+      "render.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/games/accrual/v0",
+    "gno.land/r/moul/x/games/idle/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/games/idle/v0",
+      "after": "_shots/r-moul-x-games-idle-v0-8606b15f-after.png",
+      "url": "r/moul/x/games/idle/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/games/accrual/v0",
+      "after": "_shots/p-moul-x-games-accrual-v0-e20b94cf-after.png",
+      "url": "p/moul/x/games/accrual/v0/",
+      "new": true
+    }
+  ],
+  "pages": 17
+}

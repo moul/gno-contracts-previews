@@ -1,0 +1,23 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/reaper/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/reaper/v0"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/x/reaper/v0": [
+      "reaper.gno"
+    ]
+  },
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/reaper/v0",
+      "before": "_shots/r-moul-x-reaper-v0-d9506ce5-before.png",
+      "after": "_shots/r-moul-x-reaper-v0-d9506ce5-after.png",
+      "url": "r/moul/x/reaper/v0/"
+    }
+  ],
+  "pages": 7
+}
