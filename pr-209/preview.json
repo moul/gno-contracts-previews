@@ -1,0 +1,23 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/amm/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/amm/v0"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/x/amm/v0": [
+      "amm.gno"
+    ]
+  },
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/amm/v0",
+      "before": "_shots/r-moul-x-amm-v0-c645f894-before.png",
+      "after": "_shots/r-moul-x-amm-v0-c645f894-after.png",
+      "url": "r/moul/x/amm/v0/"
+    }
+  ],
+  "pages": 7
+}
