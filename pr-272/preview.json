@@ -1,0 +1,42 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/p/moul/pilot/v0",
+    "gno.land/p/moul/x/daily/cowsay/v0"
+  ],
+  "dependents": [
+    "gno.land/r/moul/pilot/v0",
+    "gno.land/r/moul/x/daily/cowsaydemo/v0",
+    "gno.land/r/moul/x/pilotdemo/v0"
+  ],
+  "paths": [
+    "gno.land/p/moul/pilot/v0",
+    "gno.land/p/moul/x/daily/cowsay/v0",
+    "gno.land/r/moul/pilot/v0",
+    "gno.land/r/moul/x/daily/cowsaydemo/v0",
+    "gno.land/r/moul/x/pilotdemo/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/pilot/v0": [
+      "pilot.gno"
+    ],
+    "gno.land/p/moul/x/daily/cowsay/v0": [
+      "cowsay.gno"
+    ]
+  },
+  "pairs": [
+    {
+      "pkg": "gno.land/p/moul/pilot/v0",
+      "before": "_shots/p-moul-pilot-v0-d61d8db2-before.png",
+      "after": "_shots/p-moul-pilot-v0-d61d8db2-after.png",
+      "url": "p/moul/pilot/v0/"
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/cowsay/v0",
+      "before": "_shots/p-moul-x-daily-cowsay-v0-cc3beca3-before.png",
+      "after": "_shots/p-moul-x-daily-cowsay-v0-cc3beca3-after.png",
+      "url": "p/moul/x/daily/cowsay/v0/"
+    }
+  ],
+  "pages": 28
+}

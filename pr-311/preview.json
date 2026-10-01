@@ -1,0 +1,41 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/zones/v0",
+    "gno.land/p/moul/zones/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/zones/v0",
+    "gno.land/p/moul/zones/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/zones/v0": [
+      "registry.gno",
+      "zones.gno"
+    ],
+    "gno.land/r/moul/zones/v0": [
+      "render.gno",
+      "seed.gno",
+      "zones.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/zones/v0",
+    "gno.land/r/moul/zones/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/zones/v0",
+      "after": "_shots/r-moul-zones-v0-ea531b75-after.png",
+      "url": "r/moul/zones/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/zones/v0",
+      "after": "_shots/p-moul-zones-v0-0e0e1fbf-after.png",
+      "url": "p/moul/zones/v0/",
+      "new": true
+    }
+  ],
+  "pages": 25
+}
