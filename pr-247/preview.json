@@ -1,0 +1,47 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/home",
+    "gno.land/r/moul/reactions/v0",
+    "gno.land/p/moul/reactions/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/home",
+    "gno.land/r/moul/reactions/v0",
+    "gno.land/p/moul/reactions/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/reactions/v0": [
+      "palette.gno",
+      "reactions.gno"
+    ],
+    "gno.land/r/moul/home": [
+      "home.gno",
+      "reactions.gno",
+      "render.gno"
+    ],
+    "gno.land/r/moul/reactions/v0": [
+      "reactions.gno",
+      "render.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/reactions/v0",
+    "gno.land/r/moul/reactions/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/home",
+      "before": "_shots/r-moul-home-1ef04c00-before.png",
+      "after": "_shots/r-moul-home-1ef04c00-after.png",
+      "url": "r/moul/home/"
+    },
+    {
+      "pkg": "gno.land/r/moul/reactions/v0",
+      "after": "_shots/r-moul-reactions-v0-a48ba6a5-after.png",
+      "url": "r/moul/reactions/v0/",
+      "new": true
+    }
+  ],
+  "pages": 20
+}
