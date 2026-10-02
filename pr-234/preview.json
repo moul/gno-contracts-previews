@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/fenwickdemo/v0",
+    "gno.land/p/moul/x/daily/fenwick/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/fenwickdemo/v0",
+    "gno.land/p/moul/x/daily/fenwick/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/fenwick/v0": [
+      "fenwick.gno"
+    ],
+    "gno.land/r/moul/x/daily/fenwickdemo/v0": [
+      "fenwickdemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/fenwick/v0",
+    "gno.land/r/moul/x/daily/fenwickdemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/fenwickdemo/v0",
+      "after": "_shots/r-moul-x-daily-fenwickdemo-v0-13b246b7-after.png",
+      "url": "r/moul/x/daily/fenwickdemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/fenwick/v0",
+      "after": "_shots/p-moul-x-daily-fenwick-v0-0a796404-after.png",
+      "url": "p/moul/x/daily/fenwick/v0/",
+      "new": true
+    }
+  ],
+  "pages": 16
+}
