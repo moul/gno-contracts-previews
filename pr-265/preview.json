@@ -1,0 +1,26 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/across/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/across/v0"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/x/across/v0": [
+      "across.gno"
+    ]
+  },
+  "new": [
+    "gno.land/r/moul/x/across/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/across/v0",
+      "after": "_shots/r-moul-x-across-v0-43e678fc-after.png",
+      "url": "r/moul/x/across/v0/",
+      "new": true
+    }
+  ],
+  "pages": 8
+}
