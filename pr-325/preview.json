@@ -1,0 +1,97 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/social/crews/v0",
+    "gno.land/r/moul/x/social/curated/v0",
+    "gno.land/r/moul/x/social/patron/v0",
+    "gno.land/r/moul/x/social/threads/v0",
+    "gno.land/r/moul/x/social/vouch/v0",
+    "gno.land/p/moul/x/social/coin/v0",
+    "gno.land/p/moul/x/social/crew/v0",
+    "gno.land/p/moul/x/social/curated/v0",
+    "gno.land/p/moul/x/social/patron/v0",
+    "gno.land/p/moul/x/social/threads/v0",
+    "gno.land/p/moul/x/social/vouch/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/social/crews/v0",
+    "gno.land/r/moul/x/social/curated/v0",
+    "gno.land/r/moul/x/social/patron/v0",
+    "gno.land/r/moul/x/social/threads/v0",
+    "gno.land/r/moul/x/social/vouch/v0",
+    "gno.land/p/moul/x/social/coin/v0",
+    "gno.land/p/moul/x/social/crew/v0",
+    "gno.land/p/moul/x/social/curated/v0",
+    "gno.land/p/moul/x/social/patron/v0",
+    "gno.land/p/moul/x/social/threads/v0",
+    "gno.land/p/moul/x/social/vouch/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/social/coin/v0": [
+      "coin.gno"
+    ],
+    "gno.land/p/moul/x/social/crew/v0": [
+      "crew.gno"
+    ],
+    "gno.land/p/moul/x/social/curated/v0": [
+      "curated.gno"
+    ],
+    "gno.land/p/moul/x/social/patron/v0": [
+      "patron.gno"
+    ],
+    "gno.land/p/moul/x/social/threads/v0": [
+      "threads.gno"
+    ],
+    "gno.land/p/moul/x/social/vouch/v0": [
+      "vouch.gno"
+    ],
+    "gno.land/r/moul/x/social/crews/v0": [
+      "crews.gno",
+      "render.gno"
+    ],
+    "gno.land/r/moul/x/social/curated/v0": [
+      "curated.gno",
+      "render.gno"
+    ],
+    "gno.land/r/moul/x/social/patron/v0": [
+      "patron.gno",
+      "render.gno"
+    ],
+    "gno.land/r/moul/x/social/threads/v0": [
+      "render.gno",
+      "threads.gno"
+    ],
+    "gno.land/r/moul/x/social/vouch/v0": [
+      "render.gno",
+      "vouch.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/social/coin/v0",
+    "gno.land/p/moul/x/social/crew/v0",
+    "gno.land/p/moul/x/social/curated/v0",
+    "gno.land/p/moul/x/social/patron/v0",
+    "gno.land/p/moul/x/social/threads/v0",
+    "gno.land/p/moul/x/social/vouch/v0",
+    "gno.land/r/moul/x/social/crews/v0",
+    "gno.land/r/moul/x/social/curated/v0",
+    "gno.land/r/moul/x/social/patron/v0",
+    "gno.land/r/moul/x/social/threads/v0",
+    "gno.land/r/moul/x/social/vouch/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/social/crews/v0",
+      "after": "_shots/r-moul-x-social-crews-v0-8826d457-after.png",
+      "url": "r/moul/x/social/crews/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/r/moul/x/social/curated/v0",
+      "after": "_shots/r-moul-x-social-curated-v0-c6ae9d2b-after.png",
+      "url": "r/moul/x/social/curated/v0/",
+      "new": true
+    }
+  ],
+  "pages": 66
+}
