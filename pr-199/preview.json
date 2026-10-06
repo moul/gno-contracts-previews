@@ -1,0 +1,52 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/vm/bfdemo/v0",
+    "gno.land/p/moul/x/vm/bf/v0",
+    "gno.land/p/moul/x/vm/vmkit/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/vm/bfdemo/v0",
+    "gno.land/p/moul/x/vm/bf/v0",
+    "gno.land/p/moul/x/vm/vmkit/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/vm/bf/v0": [
+      "bf.gno",
+      "compile.gno",
+      "machine.gno"
+    ],
+    "gno.land/p/moul/x/vm/vmkit/v0": [
+      "codec.gno",
+      "fuel.gno",
+      "host.gno",
+      "instance.gno",
+      "machine.gno",
+      "testhost.gno"
+    ],
+    "gno.land/r/moul/x/vm/bfdemo/v0": [
+      "bfdemo.gno",
+      "render.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/vm/bf/v0",
+    "gno.land/p/moul/x/vm/vmkit/v0",
+    "gno.land/r/moul/x/vm/bfdemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/vm/bfdemo/v0",
+      "after": "_shots/r-moul-x-vm-bfdemo-v0-ef4794cd-after.png",
+      "url": "r/moul/x/vm/bfdemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/vm/bf/v0",
+      "after": "_shots/p-moul-x-vm-bf-v0-ac81344b-after.png",
+      "url": "p/moul/x/vm/bf/v0/",
+      "new": true
+    }
+  ],
+  "pages": 29
+}
