@@ -1,0 +1,78 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/p/moul/kit/ui/v0"
+  ],
+  "dependents": [
+    "gno.land/r/moul/grant/v0",
+    "gno.land/r/moul/x/daily/asciiart/v1",
+    "gno.land/r/moul/x/daily/bullscows/v1",
+    "gno.land/r/moul/x/daily/closestguess/v1",
+    "gno.land/r/moul/x/daily/coinflipduel/v1",
+    "gno.land/r/moul/x/daily/commitrevealdemo/v1",
+    "gno.land/r/moul/x/daily/connect4/v1",
+    "gno.land/r/moul/x/daily/eggling/v1",
+    "gno.land/r/moul/x/daily/eightball/v1",
+    "gno.land/r/moul/x/daily/escrow/v1",
+    "gno.land/r/moul/x/daily/guestbook/v1",
+    "gno.land/r/moul/x/daily/handles/v1",
+    "gno.land/r/moul/x/daily/kingofdice/v1",
+    "gno.land/r/moul/x/daily/leaderboard/v1",
+    "gno.land/r/moul/x/daily/microblog/v1",
+    "gno.land/r/moul/x/daily/moodstone/v1",
+    "gno.land/r/moul/x/daily/qvote/v1",
+    "gno.land/r/moul/x/daily/rps/v1",
+    "gno.land/r/moul/x/daily/rpsduel/v1",
+    "gno.land/r/moul/x/daily/rpsmatch/v1",
+    "gno.land/r/moul/x/daily/rpsoracle/v1",
+    "gno.land/r/moul/x/daily/streaks/v1",
+    "gno.land/r/moul/x/daily/tamagotchi/v1",
+    "gno.land/r/moul/x/daily/tipjar/v1",
+    "gno.land/r/moul/x/daily/todos/v1",
+    "gno.land/r/moul/x/daily/urlshort/v1",
+    "gno.land/r/moul/x/reaper/v1",
+    "gno.land/p/moul/grants/v0"
+  ],
+  "paths": [
+    "gno.land/p/moul/kit/ui/v0",
+    "gno.land/r/moul/grant/v0",
+    "gno.land/r/moul/x/daily/asciiart/v1",
+    "gno.land/r/moul/x/daily/bullscows/v1",
+    "gno.land/r/moul/x/daily/closestguess/v1",
+    "gno.land/r/moul/x/daily/coinflipduel/v1",
+    "gno.land/r/moul/x/daily/commitrevealdemo/v1",
+    "gno.land/r/moul/x/daily/connect4/v1",
+    "gno.land/r/moul/x/daily/eggling/v1",
+    "gno.land/r/moul/x/daily/eightball/v1",
+    "gno.land/r/moul/x/daily/escrow/v1",
+    "gno.land/r/moul/x/daily/guestbook/v1",
+    "gno.land/r/moul/x/daily/handles/v1",
+    "gno.land/r/moul/x/daily/kingofdice/v1",
+    "gno.land/r/moul/x/daily/leaderboard/v1",
+    "gno.land/r/moul/x/daily/microblog/v1",
+    "gno.land/r/moul/x/daily/moodstone/v1",
+    "gno.land/r/moul/x/daily/qvote/v1",
+    "gno.land/r/moul/x/daily/rps/v1",
+    "gno.land/r/moul/x/daily/rpsduel/v1",
+    "gno.land/r/moul/x/daily/rpsmatch/v1",
+    "gno.land/r/moul/x/daily/rpsoracle/v1",
+    "gno.land/r/moul/x/daily/streaks/v1",
+    "gno.land/r/moul/x/daily/tamagotchi/v1",
+    "gno.land/r/moul/x/daily/tipjar/v1"
+  ],
+  "dropped": 4,
+  "changed_files": {
+    "gno.land/p/moul/kit/ui/v0": [
+      "ui.gno"
+    ]
+  },
+  "pairs": [
+    {
+      "pkg": "gno.land/p/moul/kit/ui/v0",
+      "before": "_shots/p-moul-kit-ui-v0-d98088f0-before.png",
+      "after": "_shots/p-moul-kit-ui-v0-d98088f0-after.png",
+      "url": "p/moul/kit/ui/v0/"
+    }
+  ],
+  "pages": 107
+}

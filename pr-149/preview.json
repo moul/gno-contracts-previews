@@ -1,0 +1,42 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/grant/v0",
+    "gno.land/p/moul/grants/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/grant/v0",
+    "gno.land/p/moul/grants/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/grants/v0": [
+      "grants.gno",
+      "lifecycle.gno",
+      "program.gno",
+      "render.gno"
+    ],
+    "gno.land/r/moul/grant/v0": [
+      "grant.gno",
+      "render.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/grants/v0",
+    "gno.land/r/moul/grant/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/grant/v0",
+      "after": "_shots/r-moul-grant-v0-009b5a09-after.png",
+      "url": "r/moul/grant/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/grants/v0",
+      "after": "_shots/p-moul-grants-v0-319d2779-after.png",
+      "url": "p/moul/grants/v0/",
+      "new": true
+    }
+  ],
+  "pages": 17
+}

@@ -1,0 +1,12 @@
+<table><tr>
+<td><b><code>gno.land/r/moul/x/plan9/dev/v0</code></b><table><tr><td align="center"><sub>new in this PR</sub></td><td width="50%" align="center"><a href="https://moul.github.io/gno-contracts-previews/pr-142/r/moul/x/plan9/dev/v0/"><img src="https://moul.github.io/gno-contracts-previews/pr-142/_shots/r-moul-x-plan9-dev-v0-4d2aaeb5-after.png" width="100%" alt="after"></a><br><sub>after</sub></td></tr></table></td>
+<td><b><code>gno.land/r/moul/x/plan9/ns/v0</code></b><table><tr><td align="center"><sub>new in this PR</sub></td><td width="50%" align="center"><a href="https://moul.github.io/gno-contracts-previews/pr-142/r/moul/x/plan9/ns/v0/"><img src="https://moul.github.io/gno-contracts-previews/pr-142/_shots/r-moul-x-plan9-ns-v0-62a09f72-after.png" width="100%" alt="after"></a><br><sub>after</sub></td></tr></table></td>
+</tr></table>
+
+- [`gno.land/r/moul/x/plan9/dev/v0`](https://moul.github.io/gno-contracts-previews/pr-142/r/moul/x/plan9/dev/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-142/r/moul/x/plan9/dev/v0/_t/source/) · **new**
+- [`gno.land/r/moul/x/plan9/ns/v0`](https://moul.github.io/gno-contracts-previews/pr-142/r/moul/x/plan9/ns/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-142/r/moul/x/plan9/ns/v0/_t/source/) · **new**
+- [`gno.land/p/moul/x/plan9/memfs/v0`](https://moul.github.io/gno-contracts-previews/pr-142/p/moul/x/plan9/memfs/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-142/p/moul/x/plan9/memfs/v0/_t/source/) · **new**
+- [`gno.land/p/moul/x/plan9/ninep/v0`](https://moul.github.io/gno-contracts-previews/pr-142/p/moul/x/plan9/ninep/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-142/p/moul/x/plan9/ninep/v0/_t/source/) · **new**
+- [`gno.land/p/moul/x/plan9/ns/v0`](https://moul.github.io/gno-contracts-previews/pr-142/p/moul/x/plan9/ns/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-142/p/moul/x/plan9/ns/v0/_t/source/) · **new**
+- [`gno.land/p/moul/x/plan9/rc/v0`](https://moul.github.io/gno-contracts-previews/pr-142/p/moul/x/plan9/rc/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-142/p/moul/x/plan9/rc/v0/_t/source/) · **new**
+- [`gno.land/p/moul/x/plan9/synfs/v0`](https://moul.github.io/gno-contracts-previews/pr-142/p/moul/x/plan9/synfs/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-142/p/moul/x/plan9/synfs/v0/_t/source/) · **new**
