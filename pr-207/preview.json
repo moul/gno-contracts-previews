@@ -1,0 +1,56 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/config/v1",
+    "gno.land/r/moul/home",
+    "gno.land/p/moul/mygnoscan/v0",
+    "gno.land/p/moul/pausable/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/config/v1",
+    "gno.land/r/moul/home",
+    "gno.land/p/moul/mygnoscan/v0",
+    "gno.land/p/moul/pausable/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/mygnoscan/v0": [
+      "mygnoscan.gno"
+    ],
+    "gno.land/p/moul/pausable/v0": [
+      "pausable.gno"
+    ],
+    "gno.land/r/moul/config/v1": [
+      "blocks.gno",
+      "config.gno",
+      "keys.gno",
+      "pause.gno",
+      "proxy.gno",
+      "settings.gno"
+    ],
+    "gno.land/r/moul/home": [
+      "home.gno",
+      "render.gno",
+      "scan.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/mygnoscan/v0",
+    "gno.land/p/moul/pausable/v0",
+    "gno.land/r/moul/config/v1"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/config/v1",
+      "after": "_shots/r-moul-config-v1-29caebb9-after.png",
+      "url": "r/moul/config/v1/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/r/moul/home",
+      "before": "_shots/r-moul-home-1ef04c00-before.png",
+      "after": "_shots/r-moul-home-1ef04c00-after.png",
+      "url": "r/moul/home/"
+    }
+  ],
+  "pages": 28
+}
