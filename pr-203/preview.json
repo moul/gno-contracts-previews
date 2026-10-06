@@ -1,0 +1,27 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/faucet/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/faucet/v0"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/faucet/v0": [
+      "faucet.gno",
+      "render.gno"
+    ]
+  },
+  "new": [
+    "gno.land/r/moul/faucet/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/faucet/v0",
+      "after": "_shots/r-moul-faucet-v0-adbeec1e-after.png",
+      "url": "r/moul/faucet/v0/",
+      "new": true
+    }
+  ],
+  "pages": 7
+}
