@@ -1,0 +1,50 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/upgrade/schema/facade/v0",
+    "gno.land/r/moul/x/upgrade/schema/impl/bad/v0",
+    "gno.land/r/moul/x/upgrade/schema/impl/v0",
+    "gno.land/r/moul/x/upgrade/schema/impl/v1"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/upgrade/schema/facade/v0",
+    "gno.land/r/moul/x/upgrade/schema/impl/bad/v0",
+    "gno.land/r/moul/x/upgrade/schema/impl/v0",
+    "gno.land/r/moul/x/upgrade/schema/impl/v1"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/x/upgrade/schema/facade/v0": [
+      "facade.gno"
+    ],
+    "gno.land/r/moul/x/upgrade/schema/impl/bad/v0": [
+      "bad.gno"
+    ],
+    "gno.land/r/moul/x/upgrade/schema/impl/v0": [
+      "impl.gno"
+    ],
+    "gno.land/r/moul/x/upgrade/schema/impl/v1": [
+      "impl.gno"
+    ]
+  },
+  "new": [
+    "gno.land/r/moul/x/upgrade/schema/facade/v0",
+    "gno.land/r/moul/x/upgrade/schema/impl/bad/v0",
+    "gno.land/r/moul/x/upgrade/schema/impl/v0",
+    "gno.land/r/moul/x/upgrade/schema/impl/v1"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/upgrade/schema/facade/v0",
+      "after": "_shots/r-moul-x-upgrade-schema-facade-v0-6cfbc677-after.png",
+      "url": "r/moul/x/upgrade/schema/facade/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/r/moul/x/upgrade/schema/impl/bad/v0",
+      "after": "_shots/r-moul-x-upgrade-schema-impl-bad-v0-2eec317f-after.png",
+      "url": "r/moul/x/upgrade/schema/impl/bad/v0/",
+      "new": true
+    }
+  ],
+  "pages": 23
+}

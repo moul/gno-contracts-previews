@@ -1,0 +1,45 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/games/lastwords/v0",
+    "gno.land/p/moul/x/games/clock/v0",
+    "gno.land/p/moul/x/games/prorata/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/games/lastwords/v0",
+    "gno.land/p/moul/x/games/clock/v0",
+    "gno.land/p/moul/x/games/prorata/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/games/clock/v0": [
+      "clock.gno"
+    ],
+    "gno.land/p/moul/x/games/prorata/v0": [
+      "prorata.gno"
+    ],
+    "gno.land/r/moul/x/games/lastwords/v0": [
+      "lastwords.gno",
+      "render.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/games/clock/v0",
+    "gno.land/p/moul/x/games/prorata/v0",
+    "gno.land/r/moul/x/games/lastwords/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/games/lastwords/v0",
+      "after": "_shots/r-moul-x-games-lastwords-v0-32036c76-after.png",
+      "url": "r/moul/x/games/lastwords/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/games/clock/v0",
+      "after": "_shots/p-moul-x-games-clock-v0-504512d0-after.png",
+      "url": "p/moul/x/games/clock/v0/",
+      "new": true
+    }
+  ],
+  "pages": 22
+}
