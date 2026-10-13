@@ -1,0 +1,37 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/allinone/devtools/v0",
+    "gno.land/p/moul/kit/tally/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/allinone/devtools/v0",
+    "gno.land/p/moul/kit/tally/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/kit/tally/v0": [
+      "tally.gno"
+    ],
+    "gno.land/r/moul/x/allinone/devtools/v0": [
+      "devtools.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/kit/tally/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/allinone/devtools/v0",
+      "before": "_shots/r-moul-x-allinone-devtools-v0-925857b1-before.png",
+      "after": "_shots/r-moul-x-allinone-devtools-v0-925857b1-after.png",
+      "url": "r/moul/x/allinone/devtools/v0/"
+    },
+    {
+      "pkg": "gno.land/p/moul/kit/tally/v0",
+      "after": "_shots/p-moul-kit-tally-v0-4cf98cce-after.png",
+      "url": "p/moul/kit/tally/v0/",
+      "new": true
+    }
+  ],
+  "pages": 20
+}

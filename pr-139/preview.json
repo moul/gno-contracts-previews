@@ -1,0 +1,44 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/forge/v0",
+    "gno.land/p/moul/forge/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/forge/v0",
+    "gno.land/p/moul/forge/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/forge/v0": [
+      "change.gno",
+      "errors.gno",
+      "forge.gno",
+      "issue.gno",
+      "ref.gno",
+      "validate.gno"
+    ],
+    "gno.land/r/moul/forge/v0": [
+      "forge.gno",
+      "render.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/forge/v0",
+    "gno.land/r/moul/forge/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/forge/v0",
+      "after": "_shots/r-moul-forge-v0-f4f7d422-after.png",
+      "url": "r/moul/forge/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/forge/v0",
+      "after": "_shots/p-moul-forge-v0-800b6741-after.png",
+      "url": "p/moul/forge/v0/",
+      "new": true
+    }
+  ],
+  "pages": 19
+}

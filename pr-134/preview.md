@@ -1,0 +1,12 @@
+<table><tr>
+<td><b><code>gno.land/r/moul/agents/capwallet/v0</code></b><table><tr><td align="center"><sub>new in this PR</sub></td><td width="50%" align="center"><a href="https://moul.github.io/gno-contracts-previews/pr-134/r/moul/agents/capwallet/v0/"><img src="https://moul.github.io/gno-contracts-previews/pr-134/_shots/r-moul-agents-capwallet-v0-e35ff47d-after.png" width="100%" alt="after"></a><br><sub>after</sub></td></tr></table></td>
+<td><b><code>gno.land/r/moul/agents/gnomem/v0</code></b><table><tr><td align="center"><sub>new in this PR</sub></td><td width="50%" align="center"><a href="https://moul.github.io/gno-contracts-previews/pr-134/r/moul/agents/gnomem/v0/"><img src="https://moul.github.io/gno-contracts-previews/pr-134/_shots/r-moul-agents-gnomem-v0-82c86345-after.png" width="100%" alt="after"></a><br><sub>after</sub></td></tr></table></td>
+</tr></table>
+
+- [`gno.land/r/moul/agents/capwallet/v0`](https://moul.github.io/gno-contracts-previews/pr-134/r/moul/agents/capwallet/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-134/r/moul/agents/capwallet/v0/_t/source/) · **new**
+- [`gno.land/r/moul/agents/gnomem/v0`](https://moul.github.io/gno-contracts-previews/pr-134/r/moul/agents/gnomem/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-134/r/moul/agents/gnomem/v0/_t/source/) · **new**
+- [`gno.land/r/moul/agents/jury/v0`](https://moul.github.io/gno-contracts-previews/pr-134/r/moul/agents/jury/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-134/r/moul/agents/jury/v0/_t/source/) · **new**
+- [`gno.land/r/moul/agents/maintainer/v0`](https://moul.github.io/gno-contracts-previews/pr-134/r/moul/agents/maintainer/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-134/r/moul/agents/maintainer/v0/_t/source/) · **new**
+- [`gno.land/r/moul/agents/passport/v0`](https://moul.github.io/gno-contracts-previews/pr-134/r/moul/agents/passport/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-134/r/moul/agents/passport/v0/_t/source/) · **new**
+- [`gno.land/r/moul/agents/receipt/v0`](https://moul.github.io/gno-contracts-previews/pr-134/r/moul/agents/receipt/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-134/r/moul/agents/receipt/v0/_t/source/) · **new**
+- [`gno.land/p/moul/agents/commit/v0`](https://moul.github.io/gno-contracts-previews/pr-134/p/moul/agents/commit/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-134/p/moul/agents/commit/v0/_t/source/) · **new**
