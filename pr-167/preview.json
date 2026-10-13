@@ -1,0 +1,54 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/merkledrop/v1",
+    "gno.land/r/moul/x/provable/v0",
+    "gno.land/p/moul/x/merkle/v0",
+    "gno.land/p/moul/x/mmr/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/merkledrop/v1",
+    "gno.land/r/moul/x/provable/v0",
+    "gno.land/p/moul/x/merkle/v0",
+    "gno.land/p/moul/x/mmr/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/merkle/v0": [
+      "internal.gno",
+      "merkle.gno"
+    ],
+    "gno.land/p/moul/x/mmr/v0": [
+      "mmr.gno",
+      "verify.gno"
+    ],
+    "gno.land/r/moul/x/daily/merkledrop/v1": [
+      "merkledrop.gno",
+      "render.gno"
+    ],
+    "gno.land/r/moul/x/provable/v0": [
+      "provable.gno",
+      "render.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/merkle/v0",
+    "gno.land/p/moul/x/mmr/v0",
+    "gno.land/r/moul/x/daily/merkledrop/v1",
+    "gno.land/r/moul/x/provable/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/merkledrop/v1",
+      "after": "_shots/r-moul-x-daily-merkledrop-v1-76174cbe-after.png",
+      "url": "r/moul/x/daily/merkledrop/v1/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/r/moul/x/provable/v0",
+      "after": "_shots/r-moul-x-provable-v0-c47aeede-after.png",
+      "url": "r/moul/x/provable/v0/",
+      "new": true
+    }
+  ],
+  "pages": 38
+}

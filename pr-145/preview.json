@@ -1,0 +1,43 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/wesh/v0",
+    "gno.land/p/moul/x/wesh/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/wesh/v0",
+    "gno.land/p/moul/x/wesh/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/wesh/v0": [
+      "hmac.gno",
+      "link.gno",
+      "rendezvous.gno",
+      "statement.gno",
+      "wesh.gno"
+    ],
+    "gno.land/r/moul/x/wesh/v0": [
+      "render.gno",
+      "wesh.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/wesh/v0",
+    "gno.land/r/moul/x/wesh/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/wesh/v0",
+      "after": "_shots/r-moul-x-wesh-v0-c87c73a6-after.png",
+      "url": "r/moul/x/wesh/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/wesh/v0",
+      "after": "_shots/p-moul-x-wesh-v0-bc054c1f-after.png",
+      "url": "p/moul/x/wesh/v0/",
+      "new": true
+    }
+  ],
+  "pages": 19
+}

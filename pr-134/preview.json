@@ -1,0 +1,68 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/agents/capwallet/v0",
+    "gno.land/r/moul/agents/gnomem/v0",
+    "gno.land/r/moul/agents/jury/v0",
+    "gno.land/r/moul/agents/maintainer/v0",
+    "gno.land/r/moul/agents/passport/v0",
+    "gno.land/r/moul/agents/receipt/v0",
+    "gno.land/p/moul/agents/commit/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/agents/capwallet/v0",
+    "gno.land/r/moul/agents/gnomem/v0",
+    "gno.land/r/moul/agents/jury/v0",
+    "gno.land/r/moul/agents/maintainer/v0",
+    "gno.land/r/moul/agents/passport/v0",
+    "gno.land/r/moul/agents/receipt/v0",
+    "gno.land/p/moul/agents/commit/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/agents/commit/v0": [
+      "commit.gno"
+    ],
+    "gno.land/r/moul/agents/capwallet/v0": [
+      "capwallet.gno"
+    ],
+    "gno.land/r/moul/agents/gnomem/v0": [
+      "gnomem.gno"
+    ],
+    "gno.land/r/moul/agents/jury/v0": [
+      "jury.gno"
+    ],
+    "gno.land/r/moul/agents/maintainer/v0": [
+      "maintainer.gno"
+    ],
+    "gno.land/r/moul/agents/passport/v0": [
+      "passport.gno"
+    ],
+    "gno.land/r/moul/agents/receipt/v0": [
+      "receipt.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/agents/commit/v0",
+    "gno.land/r/moul/agents/capwallet/v0",
+    "gno.land/r/moul/agents/gnomem/v0",
+    "gno.land/r/moul/agents/jury/v0",
+    "gno.land/r/moul/agents/maintainer/v0",
+    "gno.land/r/moul/agents/passport/v0",
+    "gno.land/r/moul/agents/receipt/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/agents/capwallet/v0",
+      "after": "_shots/r-moul-agents-capwallet-v0-e35ff47d-after.png",
+      "url": "r/moul/agents/capwallet/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/r/moul/agents/gnomem/v0",
+      "after": "_shots/r-moul-agents-gnomem-v0-82c86345-after.png",
+      "url": "r/moul/agents/gnomem/v0/",
+      "new": true
+    }
+  ],
+  "pages": 39
+}
