@@ -1,0 +1,60 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/upgrade/adminreg/facade/v0",
+    "gno.land/r/moul/x/upgrade/lock/v1",
+    "gno.land/r/moul/x/upgrade/selfreg/facade/v0",
+    "gno.land/r/moul/x/upgrade/selfreg/impl/v0",
+    "gno.land/r/moul/x/upgrade/selfreg/impl/v1",
+    "gno.land/r/moul/x/upgrade/wrap/v1"
+  ],
+  "dependents": [
+    "gno.land/r/moul/x/upgrade/adminreg/impl/v0",
+    "gno.land/r/moul/x/upgrade/adminreg/impl/v1"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/upgrade/adminreg/facade/v0",
+    "gno.land/r/moul/x/upgrade/lock/v1",
+    "gno.land/r/moul/x/upgrade/selfreg/facade/v0",
+    "gno.land/r/moul/x/upgrade/selfreg/impl/v0",
+    "gno.land/r/moul/x/upgrade/selfreg/impl/v1",
+    "gno.land/r/moul/x/upgrade/wrap/v1",
+    "gno.land/r/moul/x/upgrade/adminreg/impl/v0",
+    "gno.land/r/moul/x/upgrade/adminreg/impl/v1"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/x/upgrade/adminreg/facade/v0": [
+      "facade.gno"
+    ],
+    "gno.land/r/moul/x/upgrade/lock/v1": [
+      "lock.gno"
+    ],
+    "gno.land/r/moul/x/upgrade/selfreg/facade/v0": [
+      "facade.gno"
+    ],
+    "gno.land/r/moul/x/upgrade/selfreg/impl/v0": [
+      "impl.gno"
+    ],
+    "gno.land/r/moul/x/upgrade/selfreg/impl/v1": [
+      "impl.gno"
+    ],
+    "gno.land/r/moul/x/upgrade/wrap/v1": [
+      "wrap.gno"
+    ]
+  },
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/upgrade/adminreg/facade/v0",
+      "before": "_shots/r-moul-x-upgrade-adminreg-facade-v0-94f4bc9e-before.png",
+      "after": "_shots/r-moul-x-upgrade-adminreg-facade-v0-94f4bc9e-after.png",
+      "url": "r/moul/x/upgrade/adminreg/facade/v0/"
+    },
+    {
+      "pkg": "gno.land/r/moul/x/upgrade/lock/v1",
+      "before": "_shots/r-moul-x-upgrade-lock-v1-1dda9a30-before.png",
+      "after": "_shots/r-moul-x-upgrade-lock-v1-1dda9a30-after.png",
+      "url": "r/moul/x/upgrade/lock/v1/"
+    }
+  ],
+  "pages": 41
+}

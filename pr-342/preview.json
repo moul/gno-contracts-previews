@@ -1,0 +1,69 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/blog",
+    "gno.land/r/moul/faucet/v1",
+    "gno.land/r/moul/x/allinone/devtools/v0",
+    "gno.land/r/moul/x/daily/blog/v1",
+    "gno.land/r/moul/x/daily/eggling/v1",
+    "gno.land/r/moul/x/daily/guestbook/v1",
+    "gno.land/r/moul/x/daily/polls/v1",
+    "gno.land/r/moul/x/daily/qvote/v1",
+    "gno.land/r/moul/x/daily/timecapsule/v1"
+  ],
+  "paths": [
+    "gno.land/r/moul/blog",
+    "gno.land/r/moul/faucet/v1",
+    "gno.land/r/moul/x/allinone/devtools/v0",
+    "gno.land/r/moul/x/daily/blog/v1",
+    "gno.land/r/moul/x/daily/eggling/v1",
+    "gno.land/r/moul/x/daily/guestbook/v1",
+    "gno.land/r/moul/x/daily/polls/v1",
+    "gno.land/r/moul/x/daily/qvote/v1",
+    "gno.land/r/moul/x/daily/timecapsule/v1"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/blog": [
+      "blog.gno"
+    ],
+    "gno.land/r/moul/faucet/v1": [
+      "faucet.gno"
+    ],
+    "gno.land/r/moul/x/allinone/devtools/v0": [
+      "devtools.gno"
+    ],
+    "gno.land/r/moul/x/daily/blog/v1": [
+      "blog.gno"
+    ],
+    "gno.land/r/moul/x/daily/eggling/v1": [
+      "eggling.gno"
+    ],
+    "gno.land/r/moul/x/daily/guestbook/v1": [
+      "guestbook.gno"
+    ],
+    "gno.land/r/moul/x/daily/polls/v1": [
+      "polls.gno"
+    ],
+    "gno.land/r/moul/x/daily/qvote/v1": [
+      "qvote.gno"
+    ],
+    "gno.land/r/moul/x/daily/timecapsule/v1": [
+      "timecapsule.gno"
+    ]
+  },
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/blog",
+      "before": "_shots/r-moul-blog-92a19b5c-before.png",
+      "after": "_shots/r-moul-blog-92a19b5c-after.png",
+      "url": "r/moul/blog/"
+    },
+    {
+      "pkg": "gno.land/r/moul/faucet/v1",
+      "before": "_shots/r-moul-faucet-v1-44df3e39-before.png",
+      "after": "_shots/r-moul-faucet-v1-44df3e39-after.png",
+      "url": "r/moul/faucet/v1/"
+    }
+  ],
+  "pages": 53
+}
