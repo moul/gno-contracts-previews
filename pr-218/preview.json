@@ -1,0 +1,43 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/blog",
+    "gno.land/r/moul/x/allinone/devtools/v0",
+    "gno.land/r/moul/x/allinone/textlab/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/blog",
+    "gno.land/r/moul/x/allinone/devtools/v0",
+    "gno.land/r/moul/x/allinone/textlab/v0"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/blog": [
+      "render.gno"
+    ],
+    "gno.land/r/moul/x/allinone/devtools/v0": [
+      "devtools.gno"
+    ],
+    "gno.land/r/moul/x/allinone/textlab/v0": [
+      "textlab.gno"
+    ]
+  },
+  "new": [
+    "gno.land/r/moul/x/allinone/devtools/v0",
+    "gno.land/r/moul/x/allinone/textlab/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/blog",
+      "before": "_shots/r-moul-blog-92a19b5c-before.png",
+      "after": "_shots/r-moul-blog-92a19b5c-after.png",
+      "url": "r/moul/blog/"
+    },
+    {
+      "pkg": "gno.land/r/moul/x/allinone/devtools/v0",
+      "after": "_shots/r-moul-x-allinone-devtools-v0-925857b1-after.png",
+      "url": "r/moul/x/allinone/devtools/v0/",
+      "new": true
+    }
+  ],
+  "pages": 27
+}
