@@ -1,0 +1,26 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/p/moul/kit/num/v0"
+  ],
+  "paths": [
+    "gno.land/p/moul/kit/num/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/kit/num/v0": [
+      "num.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/kit/num/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/p/moul/kit/num/v0",
+      "after": "_shots/p-moul-kit-num-v0-3a038f3b-after.png",
+      "url": "p/moul/kit/num/v0/",
+      "new": true
+    }
+  ],
+  "pages": 7
+}

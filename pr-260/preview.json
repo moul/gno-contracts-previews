@@ -1,0 +1,26 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/gsdash/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/gsdash/v0"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/x/gsdash/v0": [
+      "gsdash.gno"
+    ]
+  },
+  "new": [
+    "gno.land/r/moul/x/gsdash/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/gsdash/v0",
+      "after": "_shots/r-moul-x-gsdash-v0-65dcd849-after.png",
+      "url": "r/moul/x/gsdash/v0/",
+      "new": true
+    }
+  ],
+  "pages": 7
+}

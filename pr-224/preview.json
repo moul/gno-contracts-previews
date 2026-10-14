@@ -1,0 +1,37 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/vm/riscvdemo/v0",
+    "gno.land/p/moul/x/vm/riscv/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/vm/riscvdemo/v0",
+    "gno.land/p/moul/x/vm/riscv/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/vm/riscv/v0": [
+      "exec.gno",
+      "guests.gno"
+    ],
+    "gno.land/r/moul/x/vm/riscvdemo/v0": [
+      "render.gno",
+      "riscvdemo.gno",
+      "samples.gno"
+    ]
+  },
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/vm/riscvdemo/v0",
+      "before": "_shots/r-moul-x-vm-riscvdemo-v0-63dacc8b-before.png",
+      "after": "_shots/r-moul-x-vm-riscvdemo-v0-63dacc8b-after.png",
+      "url": "r/moul/x/vm/riscvdemo/v0/"
+    },
+    {
+      "pkg": "gno.land/p/moul/x/vm/riscv/v0",
+      "before": "_shots/p-moul-x-vm-riscv-v0-bec8ff98-before.png",
+      "after": "_shots/p-moul-x-vm-riscv-v0-bec8ff98-after.png",
+      "url": "p/moul/x/vm/riscv/v0/"
+    }
+  ],
+  "pages": 19
+}

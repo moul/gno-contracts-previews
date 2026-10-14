@@ -1,0 +1,46 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/nativeify/v0",
+    "gno.land/r/moul/x/nativereg/v0",
+    "gno.land/p/moul/x/envelope/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/nativeify/v0",
+    "gno.land/r/moul/x/nativereg/v0",
+    "gno.land/p/moul/x/envelope/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/envelope/v0": [
+      "envelope.gno"
+    ],
+    "gno.land/r/moul/x/nativeify/v0": [
+      "nativeify.gno",
+      "render.gno"
+    ],
+    "gno.land/r/moul/x/nativereg/v0": [
+      "nativereg.gno",
+      "render.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/envelope/v0",
+    "gno.land/r/moul/x/nativeify/v0",
+    "gno.land/r/moul/x/nativereg/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/nativeify/v0",
+      "after": "_shots/r-moul-x-nativeify-v0-d5c718bf-after.png",
+      "url": "r/moul/x/nativeify/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/r/moul/x/nativereg/v0",
+      "after": "_shots/r-moul-x-nativereg-v0-7bb7d734-after.png",
+      "url": "r/moul/x/nativereg/v0/",
+      "new": true
+    }
+  ],
+  "pages": 21
+}
