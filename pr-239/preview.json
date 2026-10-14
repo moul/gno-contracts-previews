@@ -1,0 +1,24 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/vesting/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/vesting/v0"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/vesting/v0": [
+      "render.gno",
+      "vesting.gno"
+    ]
+  },
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/vesting/v0",
+      "before": "_shots/r-moul-vesting-v0-51dddec1-before.png",
+      "after": "_shots/r-moul-vesting-v0-51dddec1-after.png",
+      "url": "r/moul/vesting/v0/"
+    }
+  ],
+  "pages": 7
+}
