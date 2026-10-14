@@ -1,0 +1,51 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/vesting/v0",
+    "gno.land/r/moul/x/daily/cliffvestingdemo/v1",
+    "gno.land/p/moul/vesting/v0",
+    "gno.land/p/moul/x/daily/cliffvesting/v1"
+  ],
+  "paths": [
+    "gno.land/r/moul/vesting/v0",
+    "gno.land/r/moul/x/daily/cliffvestingdemo/v1",
+    "gno.land/p/moul/vesting/v0",
+    "gno.land/p/moul/x/daily/cliffvesting/v1"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/vesting/v0": [
+      "vesting.gno"
+    ],
+    "gno.land/p/moul/x/daily/cliffvesting/v1": [
+      "cliffvesting.gno"
+    ],
+    "gno.land/r/moul/vesting/v0": [
+      "render.gno",
+      "vesting.gno"
+    ],
+    "gno.land/r/moul/x/daily/cliffvestingdemo/v1": [
+      "cliffvestingdemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/vesting/v0",
+    "gno.land/p/moul/x/daily/cliffvesting/v1",
+    "gno.land/r/moul/vesting/v0",
+    "gno.land/r/moul/x/daily/cliffvestingdemo/v1"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/vesting/v0",
+      "after": "_shots/r-moul-vesting-v0-51dddec1-after.png",
+      "url": "r/moul/vesting/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/r/moul/x/daily/cliffvestingdemo/v1",
+      "after": "_shots/r-moul-x-daily-cliffvestingdemo-v1-41a467a6-after.png",
+      "url": "r/moul/x/daily/cliffvestingdemo/v1/",
+      "new": true
+    }
+  ],
+  "pages": 27
+}

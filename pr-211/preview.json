@@ -1,0 +1,27 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/blog"
+  ],
+  "paths": [
+    "gno.land/r/moul/blog"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/blog": [
+      "blog.gno",
+      "render.gno"
+    ]
+  },
+  "new": [
+    "gno.land/r/moul/blog"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/blog",
+      "after": "_shots/r-moul-blog-92a19b5c-after.png",
+      "url": "r/moul/blog/",
+      "new": true
+    }
+  ],
+  "pages": 6
+}

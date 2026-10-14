@@ -1,0 +1,23 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/tamagotchi/v1"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/tamagotchi/v1"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/x/daily/tamagotchi/v1": [
+      "tamagotchi.gno"
+    ]
+  },
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/tamagotchi/v1",
+      "before": "_shots/r-moul-x-daily-tamagotchi-v1-f2fa08d2-before.png",
+      "after": "_shots/r-moul-x-daily-tamagotchi-v1-f2fa08d2-after.png",
+      "url": "r/moul/x/daily/tamagotchi/v1/"
+    }
+  ],
+  "pages": 8
+}
