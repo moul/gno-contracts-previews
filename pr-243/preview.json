@@ -1,0 +1,27 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/moultest/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/moultest/v0"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/x/moultest/v0": [
+      "moultest.gno",
+      "render.gno"
+    ]
+  },
+  "new": [
+    "gno.land/r/moul/x/moultest/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/moultest/v0",
+      "after": "_shots/r-moul-x-moultest-v0-2227be22-after.png",
+      "url": "r/moul/x/moultest/v0/",
+      "new": true
+    }
+  ],
+  "pages": 8
+}

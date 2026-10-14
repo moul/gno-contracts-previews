@@ -1,0 +1,10 @@
+<table><tr>
+<td><b><code>gno.land/p/moul/pilot/v0</code></b><table><tr><td width="50%" align="center"><a href="https://moul.github.io/gno-contracts-previews/pr-272/p/moul/pilot/v0/"><img src="https://moul.github.io/gno-contracts-previews/pr-272/_shots/p-moul-pilot-v0-d61d8db2-before.png" width="100%" alt="before"></a><br><sub>before</sub></td><td width="50%" align="center"><a href="https://moul.github.io/gno-contracts-previews/pr-272/p/moul/pilot/v0/"><img src="https://moul.github.io/gno-contracts-previews/pr-272/_shots/p-moul-pilot-v0-d61d8db2-after.png" width="100%" alt="after"></a><br><sub>after</sub></td></tr></table></td>
+<td><b><code>gno.land/p/moul/x/daily/cowsay/v0</code></b><table><tr><td width="50%" align="center"><a href="https://moul.github.io/gno-contracts-previews/pr-272/p/moul/x/daily/cowsay/v0/"><img src="https://moul.github.io/gno-contracts-previews/pr-272/_shots/p-moul-x-daily-cowsay-v0-cc3beca3-before.png" width="100%" alt="before"></a><br><sub>before</sub></td><td width="50%" align="center"><a href="https://moul.github.io/gno-contracts-previews/pr-272/p/moul/x/daily/cowsay/v0/"><img src="https://moul.github.io/gno-contracts-previews/pr-272/_shots/p-moul-x-daily-cowsay-v0-cc3beca3-after.png" width="100%" alt="after"></a><br><sub>after</sub></td></tr></table></td>
+</tr></table>
+
+- [`gno.land/p/moul/pilot/v0`](https://moul.github.io/gno-contracts-previews/pr-272/p/moul/pilot/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-272/p/moul/pilot/v0/_t/source/)
+- [`gno.land/p/moul/x/daily/cowsay/v0`](https://moul.github.io/gno-contracts-previews/pr-272/p/moul/x/daily/cowsay/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-272/p/moul/x/daily/cowsay/v0/_t/source/)
+- [`gno.land/r/moul/pilot/v0`](https://moul.github.io/gno-contracts-previews/pr-272/r/moul/pilot/v0/) · imports what changed
+- [`gno.land/r/moul/x/daily/cowsaydemo/v0`](https://moul.github.io/gno-contracts-previews/pr-272/r/moul/x/daily/cowsaydemo/v0/) · imports what changed
+- [`gno.land/r/moul/x/pilotdemo/v0`](https://moul.github.io/gno-contracts-previews/pr-272/r/moul/x/pilotdemo/v0/) · imports what changed
