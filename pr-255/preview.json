@@ -1,0 +1,21 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/p/moul/xmath/v1"
+  ],
+  "paths": [
+    "gno.land/p/moul/xmath/v1"
+  ],
+  "new": [
+    "gno.land/p/moul/xmath/v1"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/p/moul/xmath/v1",
+      "after": "_shots/p-moul-xmath-v1-20035542-after.png",
+      "url": "p/moul/xmath/v1/",
+      "new": true
+    }
+  ],
+  "pages": 5
+}

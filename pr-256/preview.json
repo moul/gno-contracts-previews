@@ -1,0 +1,42 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/gnopm/registry/v0",
+    "gno.land/p/moul/gnopm/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/gnopm/registry/v0",
+    "gno.land/p/moul/gnopm/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/gnopm/v0": [
+      "errors.gno",
+      "pkgpath.gno",
+      "registry.gno",
+      "validate.gno"
+    ],
+    "gno.land/r/moul/gnopm/registry/v0": [
+      "registry.gno",
+      "render.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/gnopm/v0",
+    "gno.land/r/moul/gnopm/registry/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/gnopm/registry/v0",
+      "after": "_shots/r-moul-gnopm-registry-v0-9f51b3c5-after.png",
+      "url": "r/moul/gnopm/registry/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/gnopm/v0",
+      "after": "_shots/p-moul-gnopm-v0-ef564563-after.png",
+      "url": "p/moul/gnopm/v0/",
+      "new": true
+    }
+  ],
+  "pages": 18
+}

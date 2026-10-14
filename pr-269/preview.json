@@ -1,0 +1,27 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/pilot/v0"
+  ],
+  "dependents": [
+    "gno.land/r/moul/x/pilotdemo/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/pilot/v0",
+    "gno.land/r/moul/x/pilotdemo/v0"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/pilot/v0": [
+      "pilot.gno"
+    ]
+  },
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/pilot/v0",
+      "before": "_shots/r-moul-pilot-v0-d17335f4-before.png",
+      "after": "_shots/r-moul-pilot-v0-d17335f4-after.png",
+      "url": "r/moul/pilot/v0/"
+    }
+  ],
+  "pages": 11
+}

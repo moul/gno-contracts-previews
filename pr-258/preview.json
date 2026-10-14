@@ -1,0 +1,37 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/compact/v0",
+    "gno.land/p/moul/x/storagecost/v1"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/compact/v0",
+    "gno.land/p/moul/x/storagecost/v1"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/storagecost/v1": [
+      "storagecost.gno"
+    ],
+    "gno.land/r/moul/x/compact/v0": [
+      "compact.gno"
+    ]
+  },
+  "new": [
+    "gno.land/r/moul/x/compact/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/compact/v0",
+      "after": "_shots/r-moul-x-compact-v0-c9d99301-after.png",
+      "url": "r/moul/x/compact/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/storagecost/v1",
+      "before": "_shots/p-moul-x-storagecost-v1-6f23f736-before.png",
+      "after": "_shots/p-moul-x-storagecost-v1-6f23f736-after.png",
+      "url": "p/moul/x/storagecost/v1/"
+    }
+  ],
+  "pages": 14
+}

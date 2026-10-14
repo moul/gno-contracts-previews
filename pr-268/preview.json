@@ -1,0 +1,44 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/pilot/v0",
+    "gno.land/r/moul/x/pilotdemo/v0",
+    "gno.land/p/moul/pilot/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/pilot/v0",
+    "gno.land/r/moul/x/pilotdemo/v0",
+    "gno.land/p/moul/pilot/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/pilot/v0": [
+      "pilot.gno"
+    ],
+    "gno.land/r/moul/pilot/v0": [
+      "pilot.gno"
+    ],
+    "gno.land/r/moul/x/pilotdemo/v0": [
+      "pilotdemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/pilot/v0",
+    "gno.land/r/moul/pilot/v0",
+    "gno.land/r/moul/x/pilotdemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/pilot/v0",
+      "after": "_shots/r-moul-pilot-v0-d17335f4-after.png",
+      "url": "r/moul/pilot/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/r/moul/x/pilotdemo/v0",
+      "after": "_shots/r-moul-x-pilotdemo-v0-80f3fa06-after.png",
+      "url": "r/moul/x/pilotdemo/v0/",
+      "new": true
+    }
+  ],
+  "pages": 18
+}

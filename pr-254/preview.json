@@ -1,0 +1,23 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/p/moul/xmath/v0"
+  ],
+  "paths": [
+    "gno.land/p/moul/xmath/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/xmath/v0": [
+      "muldiv.gno"
+    ]
+  },
+  "pairs": [
+    {
+      "pkg": "gno.land/p/moul/xmath/v0",
+      "before": "_shots/p-moul-xmath-v0-3d39e874-before.png",
+      "after": "_shots/p-moul-xmath-v0-3d39e874-after.png",
+      "url": "p/moul/xmath/v0/"
+    }
+  ],
+  "pages": 6
+}
