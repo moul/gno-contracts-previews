@@ -1,0 +1,86 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/cowsaydemo/v0",
+    "gno.land/r/moul/x/daily/governor/v1",
+    "gno.land/r/moul/x/daily/markovdemo/v0",
+    "gno.land/r/moul/x/daily/splitter/v1",
+    "gno.land/r/moul/x/kitindexdemo/v0",
+    "gno.land/p/moul/x/social/crew/v0",
+    "gno.land/p/moul/x/social/curated/v0",
+    "gno.land/p/moul/x/social/patron/v0",
+    "gno.land/p/moul/x/social/threads/v0",
+    "gno.land/p/moul/x/social/vouch/v0"
+  ],
+  "dependents": [
+    "gno.land/r/moul/x/social/crews/v0",
+    "gno.land/r/moul/x/social/curated/v0",
+    "gno.land/r/moul/x/social/patron/v0",
+    "gno.land/r/moul/x/social/threads/v0",
+    "gno.land/r/moul/x/social/vouch/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/cowsaydemo/v0",
+    "gno.land/r/moul/x/daily/governor/v1",
+    "gno.land/r/moul/x/daily/markovdemo/v0",
+    "gno.land/r/moul/x/daily/splitter/v1",
+    "gno.land/r/moul/x/kitindexdemo/v0",
+    "gno.land/p/moul/x/social/crew/v0",
+    "gno.land/p/moul/x/social/curated/v0",
+    "gno.land/p/moul/x/social/patron/v0",
+    "gno.land/p/moul/x/social/threads/v0",
+    "gno.land/p/moul/x/social/vouch/v0",
+    "gno.land/r/moul/x/social/crews/v0",
+    "gno.land/r/moul/x/social/curated/v0",
+    "gno.land/r/moul/x/social/patron/v0",
+    "gno.land/r/moul/x/social/threads/v0",
+    "gno.land/r/moul/x/social/vouch/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/social/crew/v0": [
+      "crew.gno"
+    ],
+    "gno.land/p/moul/x/social/curated/v0": [
+      "curated.gno"
+    ],
+    "gno.land/p/moul/x/social/patron/v0": [
+      "patron.gno"
+    ],
+    "gno.land/p/moul/x/social/threads/v0": [
+      "threads.gno"
+    ],
+    "gno.land/p/moul/x/social/vouch/v0": [
+      "vouch.gno"
+    ],
+    "gno.land/r/moul/x/daily/cowsaydemo/v0": [
+      "cowsaydemo.gno"
+    ],
+    "gno.land/r/moul/x/daily/governor/v1": [
+      "governor.gno"
+    ],
+    "gno.land/r/moul/x/daily/markovdemo/v0": [
+      "markovdemo.gno"
+    ],
+    "gno.land/r/moul/x/daily/splitter/v1": [
+      "splitter.gno"
+    ],
+    "gno.land/r/moul/x/kitindexdemo/v0": [
+      "kitindexdemo.gno"
+    ]
+  },
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/cowsaydemo/v0",
+      "before": "_shots/r-moul-x-daily-cowsaydemo-v0-93ce7937-before.png",
+      "after": "_shots/r-moul-x-daily-cowsaydemo-v0-93ce7937-after.png",
+      "url": "r/moul/x/daily/cowsaydemo/v0/"
+    },
+    {
+      "pkg": "gno.land/r/moul/x/daily/governor/v1",
+      "before": "_shots/r-moul-x-daily-governor-v1-9f9a15d3-before.png",
+      "after": "_shots/r-moul-x-daily-governor-v1-9f9a15d3-after.png",
+      "url": "r/moul/x/daily/governor/v1/"
+    }
+  ],
+  "pages": 77
+}
