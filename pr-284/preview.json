@@ -1,0 +1,31 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/gallery/v0",
+    "gno.land/r/moul/home"
+  ],
+  "paths": [
+    "gno.land/r/moul/gallery/v0",
+    "gno.land/r/moul/home"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/gallery/v0": [
+      "gallery.gno"
+    ]
+  },
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/gallery/v0",
+      "before": "_shots/r-moul-gallery-v0-f5672c43-before.png",
+      "after": "_shots/r-moul-gallery-v0-f5672c43-after.png",
+      "url": "r/moul/gallery/v0/"
+    },
+    {
+      "pkg": "gno.land/r/moul/home",
+      "before": "_shots/r-moul-home-1ef04c00-before.png",
+      "after": "_shots/r-moul-home-1ef04c00-after.png",
+      "url": "r/moul/home/"
+    }
+  ],
+  "pages": 16
+}
