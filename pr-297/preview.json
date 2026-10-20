@@ -1,0 +1,23 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/agents/relay/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/agents/relay/v0"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/agents/relay/v0": [
+      "relay.gno"
+    ]
+  },
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/agents/relay/v0",
+      "before": "_shots/r-moul-agents-relay-v0-ed2a0e86-before.png",
+      "after": "_shots/r-moul-agents-relay-v0-ed2a0e86-after.png",
+      "url": "r/moul/agents/relay/v0/"
+    }
+  ],
+  "pages": 7
+}
