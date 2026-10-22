@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/agents/relay/v0",
+    "gno.land/p/moul/agents/msg/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/agents/relay/v0",
+    "gno.land/p/moul/agents/msg/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/agents/msg/v0": [
+      "msg.gno"
+    ],
+    "gno.land/r/moul/agents/relay/v0": [
+      "relay.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/agents/msg/v0",
+    "gno.land/r/moul/agents/relay/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/agents/relay/v0",
+      "after": "_shots/r-moul-agents-relay-v0-ed2a0e86-after.png",
+      "url": "r/moul/agents/relay/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/agents/msg/v0",
+      "after": "_shots/p-moul-agents-msg-v0-e03fc60a-after.png",
+      "url": "p/moul/agents/msg/v0/",
+      "new": true
+    }
+  ],
+  "pages": 14
+}
