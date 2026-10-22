@@ -1,0 +1,49 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/toolbox",
+    "gno.land/r/moul/toolbox/usernames",
+    "gno.land/p/moul/toolbox/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/toolbox",
+    "gno.land/r/moul/toolbox/usernames",
+    "gno.land/p/moul/toolbox/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/toolbox/v0": [
+      "catalog.gno",
+      "form.gno",
+      "render.gno",
+      "toolbox.gno"
+    ],
+    "gno.land/r/moul/toolbox": [
+      "render.gno",
+      "toolbox.gno"
+    ],
+    "gno.land/r/moul/toolbox/usernames": [
+      "render.gno",
+      "usernames.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/toolbox/v0",
+    "gno.land/r/moul/toolbox",
+    "gno.land/r/moul/toolbox/usernames"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/toolbox",
+      "after": "_shots/r-moul-toolbox-077187b2-after.png",
+      "url": "r/moul/toolbox/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/r/moul/toolbox/usernames",
+      "after": "_shots/r-moul-toolbox-usernames-4c323670-after.png",
+      "url": "r/moul/toolbox/usernames/",
+      "new": true
+    }
+  ],
+  "pages": 21
+}

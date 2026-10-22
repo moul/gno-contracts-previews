@@ -1,0 +1,39 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/kitindexdemo/v0",
+    "gno.land/p/moul/kit/index/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/kitindexdemo/v0",
+    "gno.land/p/moul/kit/index/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/kit/index/v0": [
+      "index.gno"
+    ],
+    "gno.land/r/moul/x/kitindexdemo/v0": [
+      "kitindexdemo.gno",
+      "render.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/kit/index/v0",
+    "gno.land/r/moul/x/kitindexdemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/kitindexdemo/v0",
+      "after": "_shots/r-moul-x-kitindexdemo-v0-63bf9d6e-after.png",
+      "url": "r/moul/x/kitindexdemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/kit/index/v0",
+      "after": "_shots/p-moul-kit-index-v0-7b107a1b-after.png",
+      "url": "p/moul/kit/index/v0/",
+      "new": true
+    }
+  ],
+  "pages": 15
+}
