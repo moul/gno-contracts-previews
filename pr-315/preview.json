@@ -1,0 +1,112 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/agents/jury/v0",
+    "gno.land/r/moul/faucet/v1",
+    "gno.land/r/moul/grant/v0",
+    "gno.land/r/moul/x/daily/blog/v1",
+    "gno.land/r/moul/x/daily/collatz/v1",
+    "gno.land/r/moul/x/daily/connect4/v1",
+    "gno.land/r/moul/x/daily/escrow/v1",
+    "gno.land/r/moul/x/daily/handles/v1",
+    "gno.land/r/moul/x/daily/linktree/v1",
+    "gno.land/r/moul/x/daily/polls/v1",
+    "gno.land/r/moul/x/daily/urlshort/v1",
+    "gno.land/r/moul/x/daily/vault/v1",
+    "gno.land/r/moul/x/gsdash/v0",
+    "gno.land/r/moul/x/kitindexdemo/v0",
+    "gno.land/r/moul/x/plan9/dev/v1",
+    "gno.land/r/moul/x/plan9/ns/v1"
+  ],
+  "paths": [
+    "gno.land/r/moul/agents/jury/v0",
+    "gno.land/r/moul/faucet/v1",
+    "gno.land/r/moul/grant/v0",
+    "gno.land/r/moul/x/daily/blog/v1",
+    "gno.land/r/moul/x/daily/collatz/v1",
+    "gno.land/r/moul/x/daily/connect4/v1",
+    "gno.land/r/moul/x/daily/escrow/v1",
+    "gno.land/r/moul/x/daily/handles/v1",
+    "gno.land/r/moul/x/daily/linktree/v1",
+    "gno.land/r/moul/x/daily/polls/v1",
+    "gno.land/r/moul/x/daily/urlshort/v1",
+    "gno.land/r/moul/x/daily/vault/v1",
+    "gno.land/r/moul/x/gsdash/v0",
+    "gno.land/r/moul/x/kitindexdemo/v0",
+    "gno.land/r/moul/x/plan9/dev/v1",
+    "gno.land/r/moul/x/plan9/ns/v1"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/agents/jury/v0": [
+      "jury.gno"
+    ],
+    "gno.land/r/moul/faucet/v1": [
+      "faucet.gno"
+    ],
+    "gno.land/r/moul/grant/v0": [
+      "grant.gno"
+    ],
+    "gno.land/r/moul/x/daily/blog/v1": [
+      "blog.gno"
+    ],
+    "gno.land/r/moul/x/daily/collatz/v1": [
+      "collatz.gno"
+    ],
+    "gno.land/r/moul/x/daily/connect4/v1": [
+      "connect4.gno"
+    ],
+    "gno.land/r/moul/x/daily/escrow/v1": [
+      "escrow.gno"
+    ],
+    "gno.land/r/moul/x/daily/handles/v1": [
+      "handles.gno"
+    ],
+    "gno.land/r/moul/x/daily/linktree/v1": [
+      "linktree.gno"
+    ],
+    "gno.land/r/moul/x/daily/polls/v1": [
+      "polls.gno"
+    ],
+    "gno.land/r/moul/x/daily/urlshort/v1": [
+      "urlshort.gno"
+    ],
+    "gno.land/r/moul/x/daily/vault/v1": [
+      "vault.gno"
+    ],
+    "gno.land/r/moul/x/gsdash/v0": [
+      "gsdash.gno"
+    ],
+    "gno.land/r/moul/x/kitindexdemo/v0": [
+      "kitindexdemo.gno"
+    ],
+    "gno.land/r/moul/x/plan9/dev/v1": [
+      "dev.gno"
+    ],
+    "gno.land/r/moul/x/plan9/ns/v1": [
+      "ns.gno"
+    ]
+  },
+  "new": [
+    "gno.land/r/moul/x/daily/collatz/v1",
+    "gno.land/r/moul/x/daily/linktree/v1",
+    "gno.land/r/moul/x/daily/polls/v1",
+    "gno.land/r/moul/x/daily/vault/v1",
+    "gno.land/r/moul/x/plan9/dev/v1",
+    "gno.land/r/moul/x/plan9/ns/v1"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/agents/jury/v0",
+      "before": "_shots/r-moul-agents-jury-v0-d0fe1e3f-before.png",
+      "after": "_shots/r-moul-agents-jury-v0-d0fe1e3f-after.png",
+      "url": "r/moul/agents/jury/v0/"
+    },
+    {
+      "pkg": "gno.land/r/moul/faucet/v1",
+      "before": "_shots/r-moul-faucet-v1-44df3e39-before.png",
+      "after": "_shots/r-moul-faucet-v1-44df3e39-after.png",
+      "url": "r/moul/faucet/v1/"
+    }
+  ],
+  "pages": 106
+}
