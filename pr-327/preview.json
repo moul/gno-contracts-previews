@@ -1,0 +1,23 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/rpgroom/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/rpgroom/v0"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/x/daily/rpgroom/v0": [
+      "rpgroom.gno"
+    ]
+  },
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/rpgroom/v0",
+      "before": "_shots/r-moul-x-daily-rpgroom-v0-61ca8308-before.png",
+      "after": "_shots/r-moul-x-daily-rpgroom-v0-61ca8308-after.png",
+      "url": "r/moul/x/daily/rpgroom/v0/"
+    }
+  ],
+  "pages": 8
+}

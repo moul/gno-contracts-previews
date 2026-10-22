@@ -1,0 +1,55 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/social/crews/v0",
+    "gno.land/r/moul/x/social/patron/v0",
+    "gno.land/r/moul/x/social/threads/v0",
+    "gno.land/r/moul/x/social/vouch/v0",
+    "gno.land/p/moul/grants/v0"
+  ],
+  "dependents": [
+    "gno.land/r/moul/grant/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/social/crews/v0",
+    "gno.land/r/moul/x/social/patron/v0",
+    "gno.land/r/moul/x/social/threads/v0",
+    "gno.land/r/moul/x/social/vouch/v0",
+    "gno.land/p/moul/grants/v0",
+    "gno.land/r/moul/grant/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/grants/v0": [
+      "grants.gno",
+      "render.gno"
+    ],
+    "gno.land/r/moul/x/social/crews/v0": [
+      "crews.gno",
+      "render.gno"
+    ],
+    "gno.land/r/moul/x/social/patron/v0": [
+      "render.gno"
+    ],
+    "gno.land/r/moul/x/social/threads/v0": [
+      "render.gno"
+    ],
+    "gno.land/r/moul/x/social/vouch/v0": [
+      "render.gno"
+    ]
+  },
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/social/crews/v0",
+      "before": "_shots/r-moul-x-social-crews-v0-8826d457-before.png",
+      "after": "_shots/r-moul-x-social-crews-v0-8826d457-after.png",
+      "url": "r/moul/x/social/crews/v0/"
+    },
+    {
+      "pkg": "gno.land/r/moul/x/social/patron/v0",
+      "before": "_shots/r-moul-x-social-patron-v0-3948ab8d-before.png",
+      "after": "_shots/r-moul-x-social-patron-v0-3948ab8d-after.png",
+      "url": "r/moul/x/social/patron/v0/"
+    }
+  ],
+  "pages": 36
+}

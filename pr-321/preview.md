@@ -1,0 +1,7 @@
+<table><tr>
+<td><b><code>gno.land/r/moul/x/vm/riscvdemo/v0</code></b><table><tr><td width="50%" align="center"><a href="https://moul.github.io/gno-contracts-previews/pr-321/r/moul/x/vm/riscvdemo/v0/"><img src="https://moul.github.io/gno-contracts-previews/pr-321/_shots/r-moul-x-vm-riscvdemo-v0-63dacc8b-before.png" width="100%" alt="before"></a><br><sub>before</sub></td><td width="50%" align="center"><a href="https://moul.github.io/gno-contracts-previews/pr-321/r/moul/x/vm/riscvdemo/v0/"><img src="https://moul.github.io/gno-contracts-previews/pr-321/_shots/r-moul-x-vm-riscvdemo-v0-63dacc8b-after.png" width="100%" alt="after"></a><br><sub>after</sub></td></tr></table></td>
+<td><b><code>gno.land/p/moul/vendor/nt/ufmt/v2</code></b><table><tr><td align="center"><sub>new in this PR</sub></td><td width="50%" align="center"><a href="https://moul.github.io/gno-contracts-previews/pr-321/p/moul/vendor/nt/ufmt/v2/"><img src="https://moul.github.io/gno-contracts-previews/pr-321/_shots/p-moul-vendor-nt-ufmt-v2-2e90cd7e-after.png" width="100%" alt="after"></a><br><sub>after</sub></td></tr></table></td>
+</tr></table>
+
+- [`gno.land/r/moul/x/vm/riscvdemo/v0`](https://moul.github.io/gno-contracts-previews/pr-321/r/moul/x/vm/riscvdemo/v0/) · [source](https://moul.github.io/gno-contracts-previews/pr-321/r/moul/x/vm/riscvdemo/v0/_t/source/)
+- [`gno.land/p/moul/vendor/nt/ufmt/v2`](https://moul.github.io/gno-contracts-previews/pr-321/p/moul/vendor/nt/ufmt/v2/) · [source](https://moul.github.io/gno-contracts-previews/pr-321/p/moul/vendor/nt/ufmt/v2/_t/source/) · **new**
