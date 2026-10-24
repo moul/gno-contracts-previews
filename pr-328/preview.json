@@ -1,0 +1,70 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/amm/v0",
+    "gno.land/r/moul/x/daily/b58demo/v0",
+    "gno.land/r/moul/x/daily/quizstreak/v0",
+    "gno.land/r/moul/x/daily/reactions/v0",
+    "gno.land/r/moul/x/daily/romannumdemo/v0",
+    "gno.land/r/moul/x/daily/streaks/v1",
+    "gno.land/r/moul/x/daily/tamagotchi/v1",
+    "gno.land/r/moul/x/pairreg/v0"
+  ],
+  "dependents": [
+    "gno.land/r/moul/x/across/v0",
+    "gno.land/r/moul/x/pairs/aaabbb/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/amm/v0",
+    "gno.land/r/moul/x/daily/b58demo/v0",
+    "gno.land/r/moul/x/daily/quizstreak/v0",
+    "gno.land/r/moul/x/daily/reactions/v0",
+    "gno.land/r/moul/x/daily/romannumdemo/v0",
+    "gno.land/r/moul/x/daily/streaks/v1",
+    "gno.land/r/moul/x/daily/tamagotchi/v1",
+    "gno.land/r/moul/x/pairreg/v0",
+    "gno.land/r/moul/x/across/v0",
+    "gno.land/r/moul/x/pairs/aaabbb/v0"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/x/amm/v0": [
+      "amm.gno"
+    ],
+    "gno.land/r/moul/x/daily/b58demo/v0": [
+      "b58demo.gno"
+    ],
+    "gno.land/r/moul/x/daily/quizstreak/v0": [
+      "quizstreak.gno"
+    ],
+    "gno.land/r/moul/x/daily/reactions/v0": [
+      "reactions.gno"
+    ],
+    "gno.land/r/moul/x/daily/romannumdemo/v0": [
+      "romannumdemo.gno"
+    ],
+    "gno.land/r/moul/x/daily/streaks/v1": [
+      "streaks.gno"
+    ],
+    "gno.land/r/moul/x/daily/tamagotchi/v1": [
+      "tamagotchi.gno"
+    ],
+    "gno.land/r/moul/x/pairreg/v0": [
+      "pairreg.gno"
+    ]
+  },
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/amm/v0",
+      "before": "_shots/r-moul-x-amm-v0-c645f894-before.png",
+      "after": "_shots/r-moul-x-amm-v0-c645f894-after.png",
+      "url": "r/moul/x/amm/v0/"
+    },
+    {
+      "pkg": "gno.land/r/moul/x/daily/b58demo/v0",
+      "before": "_shots/r-moul-x-daily-b58demo-v0-c49a6f61-before.png",
+      "after": "_shots/r-moul-x-daily-b58demo-v0-c49a6f61-after.png",
+      "url": "r/moul/x/daily/b58demo/v0/"
+    }
+  ],
+  "pages": 70
+}

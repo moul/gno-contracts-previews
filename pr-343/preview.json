@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/myersdiffdemo/v0",
+    "gno.land/p/moul/x/daily/myersdiff/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/myersdiffdemo/v0",
+    "gno.land/p/moul/x/daily/myersdiff/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/myersdiff/v0": [
+      "myersdiff.gno"
+    ],
+    "gno.land/r/moul/x/daily/myersdiffdemo/v0": [
+      "myersdiffdemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/myersdiff/v0",
+    "gno.land/r/moul/x/daily/myersdiffdemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/myersdiffdemo/v0",
+      "after": "_shots/r-moul-x-daily-myersdiffdemo-v0-2e640569-after.png",
+      "url": "r/moul/x/daily/myersdiffdemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/myersdiff/v0",
+      "after": "_shots/p-moul-x-daily-myersdiff-v0-fb8df8b4-after.png",
+      "url": "p/moul/x/daily/myersdiff/v0/",
+      "new": true
+    }
+  ],
+  "pages": 22
+}
