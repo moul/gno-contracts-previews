@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/bwtdemo/v0",
+    "gno.land/p/moul/x/daily/bwt/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/bwtdemo/v0",
+    "gno.land/p/moul/x/daily/bwt/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/bwt/v0": [
+      "bwt.gno"
+    ],
+    "gno.land/r/moul/x/daily/bwtdemo/v0": [
+      "bwtdemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/bwt/v0",
+    "gno.land/r/moul/x/daily/bwtdemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/bwtdemo/v0",
+      "after": "_shots/r-moul-x-daily-bwtdemo-v0-9d88e1e4-after.png",
+      "url": "r/moul/x/daily/bwtdemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/bwt/v0",
+      "after": "_shots/p-moul-x-daily-bwt-v0-c9a58f54-after.png",
+      "url": "p/moul/x/daily/bwt/v0/",
+      "new": true
+    }
+  ],
+  "pages": 16
+}

@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/csvdemo/v0",
+    "gno.land/p/moul/x/daily/csv/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/csvdemo/v0",
+    "gno.land/p/moul/x/daily/csv/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/csv/v0": [
+      "csv.gno"
+    ],
+    "gno.land/r/moul/x/daily/csvdemo/v0": [
+      "csvdemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/csv/v0",
+    "gno.land/r/moul/x/daily/csvdemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/csvdemo/v0",
+      "after": "_shots/r-moul-x-daily-csvdemo-v0-24a635cc-after.png",
+      "url": "r/moul/x/daily/csvdemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/csv/v0",
+      "after": "_shots/p-moul-x-daily-csv-v0-eadcd122-after.png",
+      "url": "p/moul/x/daily/csv/v0/",
+      "new": true
+    }
+  ],
+  "pages": 16
+}

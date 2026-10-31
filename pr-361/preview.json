@@ -1,0 +1,52 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/rps/v1",
+    "gno.land/r/moul/x/daily/rpsduel/v1",
+    "gno.land/r/moul/x/daily/rpsmatch/v1",
+    "gno.land/r/moul/x/daily/rpsoracle/v1",
+    "gno.land/p/moul/x/daily/rps/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/rps/v1",
+    "gno.land/r/moul/x/daily/rpsduel/v1",
+    "gno.land/r/moul/x/daily/rpsmatch/v1",
+    "gno.land/r/moul/x/daily/rpsoracle/v1",
+    "gno.land/p/moul/x/daily/rps/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/rps/v0": [
+      "rps.gno"
+    ],
+    "gno.land/r/moul/x/daily/rps/v1": [
+      "rps.gno"
+    ],
+    "gno.land/r/moul/x/daily/rpsduel/v1": [
+      "rpsduel.gno"
+    ],
+    "gno.land/r/moul/x/daily/rpsmatch/v1": [
+      "rpsmatch.gno"
+    ],
+    "gno.land/r/moul/x/daily/rpsoracle/v1": [
+      "rpsoracle.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/rps/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/rps/v1",
+      "before": "_shots/r-moul-x-daily-rps-v1-722ac8c8-before.png",
+      "after": "_shots/r-moul-x-daily-rps-v1-722ac8c8-after.png",
+      "url": "r/moul/x/daily/rps/v1/"
+    },
+    {
+      "pkg": "gno.land/r/moul/x/daily/rpsduel/v1",
+      "before": "_shots/r-moul-x-daily-rpsduel-v1-4aa1fd06-before.png",
+      "after": "_shots/r-moul-x-daily-rpsduel-v1-4aa1fd06-after.png",
+      "url": "r/moul/x/daily/rpsduel/v1/"
+    }
+  ],
+  "pages": 31
+}

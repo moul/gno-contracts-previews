@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/shuntingyarddemo/v0",
+    "gno.land/p/moul/x/daily/shuntingyard/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/shuntingyarddemo/v0",
+    "gno.land/p/moul/x/daily/shuntingyard/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/shuntingyard/v0": [
+      "shuntingyard.gno"
+    ],
+    "gno.land/r/moul/x/daily/shuntingyarddemo/v0": [
+      "shuntingyarddemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/shuntingyard/v0",
+    "gno.land/r/moul/x/daily/shuntingyarddemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/shuntingyarddemo/v0",
+      "after": "_shots/r-moul-x-daily-shuntingyarddemo-v0-38fd8c79-after.png",
+      "url": "r/moul/x/daily/shuntingyarddemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/shuntingyard/v0",
+      "after": "_shots/p-moul-x-daily-shuntingyard-v0-9a85635c-after.png",
+      "url": "p/moul/x/daily/shuntingyard/v0/",
+      "new": true
+    }
+  ],
+  "pages": 48
+}

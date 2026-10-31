@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/manacherdemo/v0",
+    "gno.land/p/moul/x/daily/manacher/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/manacherdemo/v0",
+    "gno.land/p/moul/x/daily/manacher/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/manacher/v0": [
+      "manacher.gno"
+    ],
+    "gno.land/r/moul/x/daily/manacherdemo/v0": [
+      "manacherdemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/manacher/v0",
+    "gno.land/r/moul/x/daily/manacherdemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/manacherdemo/v0",
+      "after": "_shots/r-moul-x-daily-manacherdemo-v0-7855c42e-after.png",
+      "url": "r/moul/x/daily/manacherdemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/manacher/v0",
+      "after": "_shots/p-moul-x-daily-manacher-v0-13b943ef-after.png",
+      "url": "p/moul/x/daily/manacher/v0/",
+      "new": true
+    }
+  ],
+  "pages": 16
+}

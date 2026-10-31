@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/base45demo/v0",
+    "gno.land/p/moul/x/daily/base45/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/base45demo/v0",
+    "gno.land/p/moul/x/daily/base45/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/base45/v0": [
+      "base45.gno"
+    ],
+    "gno.land/r/moul/x/daily/base45demo/v0": [
+      "base45demo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/base45/v0",
+    "gno.land/r/moul/x/daily/base45demo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/base45demo/v0",
+      "after": "_shots/r-moul-x-daily-base45demo-v0-88416caf-after.png",
+      "url": "r/moul/x/daily/base45demo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/base45/v0",
+      "after": "_shots/p-moul-x-daily-base45-v0-ed4ed58a-after.png",
+      "url": "p/moul/x/daily/base45/v0/",
+      "new": true
+    }
+  ],
+  "pages": 16
+}

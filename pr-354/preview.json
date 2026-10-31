@@ -1,0 +1,39 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/dijkstrademo/v0",
+    "gno.land/p/moul/x/daily/dijkstra/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/dijkstrademo/v0",
+    "gno.land/p/moul/x/daily/dijkstra/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/dijkstra/v0": [
+      "dijkstra.gno",
+      "queue.gno"
+    ],
+    "gno.land/r/moul/x/daily/dijkstrademo/v0": [
+      "dijkstrademo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/dijkstra/v0",
+    "gno.land/r/moul/x/daily/dijkstrademo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/dijkstrademo/v0",
+      "after": "_shots/r-moul-x-daily-dijkstrademo-v0-0d4783b3-after.png",
+      "url": "r/moul/x/daily/dijkstrademo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/dijkstra/v0",
+      "after": "_shots/p-moul-x-daily-dijkstra-v0-c92b566f-after.png",
+      "url": "p/moul/x/daily/dijkstra/v0/",
+      "new": true
+    }
+  ],
+  "pages": 17
+}
