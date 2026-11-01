@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/globdemo/v0",
+    "gno.land/p/moul/x/daily/glob/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/globdemo/v0",
+    "gno.land/p/moul/x/daily/glob/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/glob/v0": [
+      "glob.gno"
+    ],
+    "gno.land/r/moul/x/daily/globdemo/v0": [
+      "globdemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/glob/v0",
+    "gno.land/r/moul/x/daily/globdemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/globdemo/v0",
+      "after": "_shots/r-moul-x-daily-globdemo-v0-64be6b7b-after.png",
+      "url": "r/moul/x/daily/globdemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/glob/v0",
+      "after": "_shots/p-moul-x-daily-glob-v0-846d6cda-after.png",
+      "url": "p/moul/x/daily/glob/v0/",
+      "new": true
+    }
+  ],
+  "pages": 16
+}
