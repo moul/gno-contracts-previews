@@ -1,0 +1,91 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/demo/render/v1",
+    "gno.land/r/moul/x/daily/base32demo/v1",
+    "gno.land/r/moul/x/daily/crc32demo/v1",
+    "gno.land/r/moul/x/daily/levenshteindemo/v1",
+    "gno.land/r/moul/x/daily/luhndemo/v1",
+    "gno.land/r/moul/x/daily/piglatindemo/v1",
+    "gno.land/r/moul/x/daily/rledemo/v1",
+    "gno.land/r/moul/x/daily/soundexdemo/v1",
+    "gno.land/r/moul/x/daily/streak/v1",
+    "gno.land/r/moul/x/daily/tictactoe/v1",
+    "gno.land/r/moul/x/daily/triedemo/v1"
+  ],
+  "paths": [
+    "gno.land/r/moul/demo/render/v1",
+    "gno.land/r/moul/x/daily/base32demo/v1",
+    "gno.land/r/moul/x/daily/crc32demo/v1",
+    "gno.land/r/moul/x/daily/levenshteindemo/v1",
+    "gno.land/r/moul/x/daily/luhndemo/v1",
+    "gno.land/r/moul/x/daily/piglatindemo/v1",
+    "gno.land/r/moul/x/daily/rledemo/v1",
+    "gno.land/r/moul/x/daily/soundexdemo/v1",
+    "gno.land/r/moul/x/daily/streak/v1",
+    "gno.land/r/moul/x/daily/tictactoe/v1",
+    "gno.land/r/moul/x/daily/triedemo/v1"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/demo/render/v1": [
+      "contract.gno"
+    ],
+    "gno.land/r/moul/x/daily/base32demo/v1": [
+      "base32demo.gno"
+    ],
+    "gno.land/r/moul/x/daily/crc32demo/v1": [
+      "crc32demo.gno"
+    ],
+    "gno.land/r/moul/x/daily/levenshteindemo/v1": [
+      "levenshteindemo.gno"
+    ],
+    "gno.land/r/moul/x/daily/luhndemo/v1": [
+      "luhndemo.gno"
+    ],
+    "gno.land/r/moul/x/daily/piglatindemo/v1": [
+      "piglatindemo.gno"
+    ],
+    "gno.land/r/moul/x/daily/rledemo/v1": [
+      "rledemo.gno"
+    ],
+    "gno.land/r/moul/x/daily/soundexdemo/v1": [
+      "soundexdemo.gno"
+    ],
+    "gno.land/r/moul/x/daily/streak/v1": [
+      "streak.gno"
+    ],
+    "gno.land/r/moul/x/daily/tictactoe/v1": [
+      "tictactoe.gno"
+    ],
+    "gno.land/r/moul/x/daily/triedemo/v1": [
+      "triedemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/r/moul/demo/render/v1",
+    "gno.land/r/moul/x/daily/base32demo/v1",
+    "gno.land/r/moul/x/daily/crc32demo/v1",
+    "gno.land/r/moul/x/daily/levenshteindemo/v1",
+    "gno.land/r/moul/x/daily/luhndemo/v1",
+    "gno.land/r/moul/x/daily/piglatindemo/v1",
+    "gno.land/r/moul/x/daily/rledemo/v1",
+    "gno.land/r/moul/x/daily/soundexdemo/v1",
+    "gno.land/r/moul/x/daily/streak/v1",
+    "gno.land/r/moul/x/daily/triedemo/v1"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/demo/render/v1",
+      "after": "_shots/r-moul-demo-render-v1-67c6a4af-after.png",
+      "url": "r/moul/demo/render/v1/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/r/moul/x/daily/base32demo/v1",
+      "after": "_shots/r-moul-x-daily-base32demo-v1-757f4317-after.png",
+      "url": "r/moul/x/daily/base32demo/v1/",
+      "new": true
+    }
+  ],
+  "pages": 71
+}

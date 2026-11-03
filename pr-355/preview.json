@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/crondemo/v0",
+    "gno.land/p/moul/x/daily/cron/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/crondemo/v0",
+    "gno.land/p/moul/x/daily/cron/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/cron/v0": [
+      "cron.gno"
+    ],
+    "gno.land/r/moul/x/daily/crondemo/v0": [
+      "crondemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/cron/v0",
+    "gno.land/r/moul/x/daily/crondemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/crondemo/v0",
+      "after": "_shots/r-moul-x-daily-crondemo-v0-19025601-after.png",
+      "url": "r/moul/x/daily/crondemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/cron/v0",
+      "after": "_shots/p-moul-x-daily-cron-v0-d127147b-after.png",
+      "url": "p/moul/x/daily/cron/v0/",
+      "new": true
+    }
+  ],
+  "pages": 16
+}

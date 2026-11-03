@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/bencodedemo/v0",
+    "gno.land/p/moul/x/daily/bencode/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/bencodedemo/v0",
+    "gno.land/p/moul/x/daily/bencode/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/bencode/v0": [
+      "bencode.gno"
+    ],
+    "gno.land/r/moul/x/daily/bencodedemo/v0": [
+      "bencodedemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/bencode/v0",
+    "gno.land/r/moul/x/daily/bencodedemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/bencodedemo/v0",
+      "after": "_shots/r-moul-x-daily-bencodedemo-v0-4c05957b-after.png",
+      "url": "r/moul/x/daily/bencodedemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/bencode/v0",
+      "after": "_shots/p-moul-x-daily-bencode-v0-d3b6bb9e-after.png",
+      "url": "p/moul/x/daily/bencode/v0/",
+      "new": true
+    }
+  ],
+  "pages": 17
+}
