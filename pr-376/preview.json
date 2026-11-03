@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/intervalsetdemo/v0",
+    "gno.land/p/moul/x/daily/intervalset/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/intervalsetdemo/v0",
+    "gno.land/p/moul/x/daily/intervalset/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/intervalset/v0": [
+      "intervalset.gno"
+    ],
+    "gno.land/r/moul/x/daily/intervalsetdemo/v0": [
+      "intervalsetdemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/intervalset/v0",
+    "gno.land/r/moul/x/daily/intervalsetdemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/intervalsetdemo/v0",
+      "after": "_shots/r-moul-x-daily-intervalsetdemo-v0-688c5bd0-after.png",
+      "url": "r/moul/x/daily/intervalsetdemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/intervalset/v0",
+      "after": "_shots/p-moul-x-daily-intervalset-v0-57f93e0f-after.png",
+      "url": "p/moul/x/daily/intervalset/v0/",
+      "new": true
+    }
+  ],
+  "pages": 16
+}

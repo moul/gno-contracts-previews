@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/ahocorasickdemo/v0",
+    "gno.land/p/moul/x/daily/ahocorasick/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/ahocorasickdemo/v0",
+    "gno.land/p/moul/x/daily/ahocorasick/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/ahocorasick/v0": [
+      "ahocorasick.gno"
+    ],
+    "gno.land/r/moul/x/daily/ahocorasickdemo/v0": [
+      "ahocorasickdemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/ahocorasick/v0",
+    "gno.land/r/moul/x/daily/ahocorasickdemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/ahocorasickdemo/v0",
+      "after": "_shots/r-moul-x-daily-ahocorasickdemo-v0-6873044d-after.png",
+      "url": "r/moul/x/daily/ahocorasickdemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/ahocorasick/v0",
+      "after": "_shots/p-moul-x-daily-ahocorasick-v0-57540f5e-after.png",
+      "url": "p/moul/x/daily/ahocorasick/v0/",
+      "new": true
+    }
+  ],
+  "pages": 18
+}

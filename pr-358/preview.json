@@ -1,0 +1,43 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/govgrant/v0",
+    "gno.land/p/moul/grants/v1"
+  ],
+  "paths": [
+    "gno.land/r/moul/govgrant/v0",
+    "gno.land/p/moul/grants/v1"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/grants/v1": [
+      "grants.gno",
+      "lifecycle.gno",
+      "program.gno",
+      "render.gno"
+    ],
+    "gno.land/r/moul/govgrant/v0": [
+      "govern.gno",
+      "grant.gno",
+      "render.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/grants/v1",
+    "gno.land/r/moul/govgrant/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/govgrant/v0",
+      "after": "_shots/r-moul-govgrant-v0-735b7212-after.png",
+      "url": "r/moul/govgrant/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/grants/v1",
+      "after": "_shots/p-moul-grants-v1-19f4bdcb-after.png",
+      "url": "p/moul/grants/v1/",
+      "new": true
+    }
+  ],
+  "pages": 18
+}
