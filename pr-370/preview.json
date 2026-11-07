@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/punycodedemo/v0",
+    "gno.land/p/moul/x/daily/punycode/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/punycodedemo/v0",
+    "gno.land/p/moul/x/daily/punycode/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/punycode/v0": [
+      "punycode.gno"
+    ],
+    "gno.land/r/moul/x/daily/punycodedemo/v0": [
+      "punycodedemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/punycode/v0",
+    "gno.land/r/moul/x/daily/punycodedemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/punycodedemo/v0",
+      "after": "_shots/r-moul-x-daily-punycodedemo-v0-2e0592af-after.png",
+      "url": "r/moul/x/daily/punycodedemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/punycode/v0",
+      "after": "_shots/p-moul-x-daily-punycode-v0-a79ae9a2-after.png",
+      "url": "p/moul/x/daily/punycode/v0/",
+      "new": true
+    }
+  ],
+  "pages": 16
+}
