@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/murmur3demo/v0",
+    "gno.land/p/moul/x/daily/murmur3/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/murmur3demo/v0",
+    "gno.land/p/moul/x/daily/murmur3/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/murmur3/v0": [
+      "murmur3.gno"
+    ],
+    "gno.land/r/moul/x/daily/murmur3demo/v0": [
+      "murmur3demo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/murmur3/v0",
+    "gno.land/r/moul/x/daily/murmur3demo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/murmur3demo/v0",
+      "after": "_shots/r-moul-x-daily-murmur3demo-v0-7d476c07-after.png",
+      "url": "r/moul/x/daily/murmur3demo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/murmur3/v0",
+      "after": "_shots/p-moul-x-daily-murmur3-v0-84796c3a-after.png",
+      "url": "p/moul/x/daily/murmur3/v0/",
+      "new": true
+    }
+  ],
+  "pages": 18
+}

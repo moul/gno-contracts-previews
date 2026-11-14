@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/hashringdemo/v0",
+    "gno.land/p/moul/x/daily/hashring/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/hashringdemo/v0",
+    "gno.land/p/moul/x/daily/hashring/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/hashring/v0": [
+      "hashring.gno"
+    ],
+    "gno.land/r/moul/x/daily/hashringdemo/v0": [
+      "hashringdemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/hashring/v0",
+    "gno.land/r/moul/x/daily/hashringdemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/hashringdemo/v0",
+      "after": "_shots/r-moul-x-daily-hashringdemo-v0-1be933a7-after.png",
+      "url": "r/moul/x/daily/hashringdemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/hashring/v0",
+      "after": "_shots/p-moul-x-daily-hashring-v0-450eb923-after.png",
+      "url": "p/moul/x/daily/hashring/v0/",
+      "new": true
+    }
+  ],
+  "pages": 19
+}

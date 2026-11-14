@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/segmenttreedemo/v0",
+    "gno.land/p/moul/x/daily/segmenttree/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/segmenttreedemo/v0",
+    "gno.land/p/moul/x/daily/segmenttree/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/segmenttree/v0": [
+      "segmenttree.gno"
+    ],
+    "gno.land/r/moul/x/daily/segmenttreedemo/v0": [
+      "segmenttreedemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/segmenttree/v0",
+    "gno.land/r/moul/x/daily/segmenttreedemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/segmenttreedemo/v0",
+      "after": "_shots/r-moul-x-daily-segmenttreedemo-v0-244110c5-after.png",
+      "url": "r/moul/x/daily/segmenttreedemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/segmenttree/v0",
+      "after": "_shots/p-moul-x-daily-segmenttree-v0-36aa5f00-after.png",
+      "url": "p/moul/x/daily/segmenttree/v0/",
+      "new": true
+    }
+  ],
+  "pages": 17
+}
