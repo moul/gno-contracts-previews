@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/hilbertdemo/v0",
+    "gno.land/p/moul/x/daily/hilbert/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/hilbertdemo/v0",
+    "gno.land/p/moul/x/daily/hilbert/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/hilbert/v0": [
+      "hilbert.gno"
+    ],
+    "gno.land/r/moul/x/daily/hilbertdemo/v0": [
+      "hilbertdemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/hilbert/v0",
+    "gno.land/r/moul/x/daily/hilbertdemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/hilbertdemo/v0",
+      "after": "_shots/r-moul-x-daily-hilbertdemo-v0-1533d8b7-after.png",
+      "url": "r/moul/x/daily/hilbertdemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/hilbert/v0",
+      "after": "_shots/p-moul-x-daily-hilbert-v0-98fc7613-after.png",
+      "url": "p/moul/x/daily/hilbert/v0/",
+      "new": true
+    }
+  ],
+  "pages": 19
+}

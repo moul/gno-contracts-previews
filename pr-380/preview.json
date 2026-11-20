@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/tarjandemo/v0",
+    "gno.land/p/moul/x/daily/tarjan/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/tarjandemo/v0",
+    "gno.land/p/moul/x/daily/tarjan/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/tarjan/v0": [
+      "tarjan.gno"
+    ],
+    "gno.land/r/moul/x/daily/tarjandemo/v0": [
+      "tarjandemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/tarjan/v0",
+    "gno.land/r/moul/x/daily/tarjandemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/tarjandemo/v0",
+      "after": "_shots/r-moul-x-daily-tarjandemo-v0-58d0877b-after.png",
+      "url": "r/moul/x/daily/tarjandemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/tarjan/v0",
+      "after": "_shots/p-moul-x-daily-tarjan-v0-4096b668-after.png",
+      "url": "p/moul/x/daily/tarjan/v0/",
+      "new": true
+    }
+  ],
+  "pages": 18
+}

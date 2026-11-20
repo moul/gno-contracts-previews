@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/jarowinklerdemo/v0",
+    "gno.land/p/moul/x/daily/jarowinkler/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/jarowinklerdemo/v0",
+    "gno.land/p/moul/x/daily/jarowinkler/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/jarowinkler/v0": [
+      "jarowinkler.gno"
+    ],
+    "gno.land/r/moul/x/daily/jarowinklerdemo/v0": [
+      "jarowinklerdemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/jarowinkler/v0",
+    "gno.land/r/moul/x/daily/jarowinklerdemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/jarowinklerdemo/v0",
+      "after": "_shots/r-moul-x-daily-jarowinklerdemo-v0-9b4fcc57-after.png",
+      "url": "r/moul/x/daily/jarowinklerdemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/jarowinkler/v0",
+      "after": "_shots/p-moul-x-daily-jarowinkler-v0-c4b89aa6-after.png",
+      "url": "p/moul/x/daily/jarowinkler/v0/",
+      "new": true
+    }
+  ],
+  "pages": 19
+}

@@ -1,0 +1,39 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/hyperloglogdemo/v0",
+    "gno.land/p/moul/x/daily/hyperloglog/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/hyperloglogdemo/v0",
+    "gno.land/p/moul/x/daily/hyperloglog/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/hyperloglog/v0": [
+      "hash.gno",
+      "hyperloglog.gno"
+    ],
+    "gno.land/r/moul/x/daily/hyperloglogdemo/v0": [
+      "hyperloglogdemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/hyperloglog/v0",
+    "gno.land/r/moul/x/daily/hyperloglogdemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/hyperloglogdemo/v0",
+      "after": "_shots/r-moul-x-daily-hyperloglogdemo-v0-6d375a95-after.png",
+      "url": "r/moul/x/daily/hyperloglogdemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/hyperloglog/v0",
+      "after": "_shots/p-moul-x-daily-hyperloglog-v0-f1deb743-after.png",
+      "url": "p/moul/x/daily/hyperloglog/v0/",
+      "new": true
+    }
+  ],
+  "pages": 18
+}

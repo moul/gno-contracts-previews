@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/lzwdemo/v0",
+    "gno.land/p/moul/x/daily/lzw/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/lzwdemo/v0",
+    "gno.land/p/moul/x/daily/lzw/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/lzw/v0": [
+      "lzw.gno"
+    ],
+    "gno.land/r/moul/x/daily/lzwdemo/v0": [
+      "lzwdemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/lzw/v0",
+    "gno.land/r/moul/x/daily/lzwdemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/lzwdemo/v0",
+      "after": "_shots/r-moul-x-daily-lzwdemo-v0-363baa53-after.png",
+      "url": "r/moul/x/daily/lzwdemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/lzw/v0",
+      "after": "_shots/p-moul-x-daily-lzw-v0-f3eb8415-after.png",
+      "url": "p/moul/x/daily/lzw/v0/",
+      "new": true
+    }
+  ],
+  "pages": 17
+}
