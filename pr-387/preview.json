@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/cobsdemo/v0",
+    "gno.land/p/moul/x/daily/cobs/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/cobsdemo/v0",
+    "gno.land/p/moul/x/daily/cobs/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/cobs/v0": [
+      "cobs.gno"
+    ],
+    "gno.land/r/moul/x/daily/cobsdemo/v0": [
+      "cobsdemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/cobs/v0",
+    "gno.land/r/moul/x/daily/cobsdemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/cobsdemo/v0",
+      "after": "_shots/r-moul-x-daily-cobsdemo-v0-eda065d0-after.png",
+      "url": "r/moul/x/daily/cobsdemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/cobs/v0",
+      "after": "_shots/p-moul-x-daily-cobs-v0-23651d52-after.png",
+      "url": "p/moul/x/daily/cobs/v0/",
+      "new": true
+    }
+  ],
+  "pages": 19
+}

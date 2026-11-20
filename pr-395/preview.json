@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/bellmanforddemo/v0",
+    "gno.land/p/moul/x/daily/bellmanford/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/bellmanforddemo/v0",
+    "gno.land/p/moul/x/daily/bellmanford/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/bellmanford/v0": [
+      "bellmanford.gno"
+    ],
+    "gno.land/r/moul/x/daily/bellmanforddemo/v0": [
+      "bellmanforddemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/bellmanford/v0",
+    "gno.land/r/moul/x/daily/bellmanforddemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/bellmanforddemo/v0",
+      "after": "_shots/r-moul-x-daily-bellmanforddemo-v0-4cc7189b-after.png",
+      "url": "r/moul/x/daily/bellmanforddemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/bellmanford/v0",
+      "after": "_shots/p-moul-x-daily-bellmanford-v0-ca3da857-after.png",
+      "url": "p/moul/x/daily/bellmanford/v0/",
+      "new": true
+    }
+  ],
+  "pages": 17
+}

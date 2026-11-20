@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/hmacdemo/v0",
+    "gno.land/p/moul/x/daily/hmac/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/hmacdemo/v0",
+    "gno.land/p/moul/x/daily/hmac/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/hmac/v0": [
+      "hmac.gno"
+    ],
+    "gno.land/r/moul/x/daily/hmacdemo/v0": [
+      "hmacdemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/hmac/v0",
+    "gno.land/r/moul/x/daily/hmacdemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/hmacdemo/v0",
+      "after": "_shots/r-moul-x-daily-hmacdemo-v0-aa5e8a76-after.png",
+      "url": "r/moul/x/daily/hmacdemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/hmac/v0",
+      "after": "_shots/p-moul-x-daily-hmac-v0-851525be-after.png",
+      "url": "p/moul/x/daily/hmac/v0/",
+      "new": true
+    }
+  ],
+  "pages": 19
+}

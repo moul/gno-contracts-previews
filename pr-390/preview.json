@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/ipaddrdemo/v0",
+    "gno.land/p/moul/x/daily/ipaddr/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/ipaddrdemo/v0",
+    "gno.land/p/moul/x/daily/ipaddr/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/ipaddr/v0": [
+      "ipaddr.gno"
+    ],
+    "gno.land/r/moul/x/daily/ipaddrdemo/v0": [
+      "ipaddrdemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/ipaddr/v0",
+    "gno.land/r/moul/x/daily/ipaddrdemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/ipaddrdemo/v0",
+      "after": "_shots/r-moul-x-daily-ipaddrdemo-v0-40f2833e-after.png",
+      "url": "r/moul/x/daily/ipaddrdemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/ipaddr/v0",
+      "after": "_shots/p-moul-x-daily-ipaddr-v0-8f2c9572-after.png",
+      "url": "p/moul/x/daily/ipaddr/v0/",
+      "new": true
+    }
+  ],
+  "pages": 21
+}
