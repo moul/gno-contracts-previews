@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/sha1demo/v0",
+    "gno.land/p/moul/x/daily/sha1/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/sha1demo/v0",
+    "gno.land/p/moul/x/daily/sha1/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/sha1/v0": [
+      "sha1.gno"
+    ],
+    "gno.land/r/moul/x/daily/sha1demo/v0": [
+      "sha1demo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/sha1/v0",
+    "gno.land/r/moul/x/daily/sha1demo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/sha1demo/v0",
+      "after": "_shots/r-moul-x-daily-sha1demo-v0-c6da1e4d-after.png",
+      "url": "r/moul/x/daily/sha1demo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/sha1/v0",
+      "after": "_shots/p-moul-x-daily-sha1-v0-c0f26466-after.png",
+      "url": "p/moul/x/daily/sha1/v0/",
+      "new": true
+    }
+  ],
+  "pages": 17
+}

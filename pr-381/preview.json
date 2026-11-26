@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/ascii85demo/v0",
+    "gno.land/p/moul/x/daily/ascii85/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/ascii85demo/v0",
+    "gno.land/p/moul/x/daily/ascii85/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/ascii85/v0": [
+      "ascii85.gno"
+    ],
+    "gno.land/r/moul/x/daily/ascii85demo/v0": [
+      "ascii85demo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/ascii85/v0",
+    "gno.land/r/moul/x/daily/ascii85demo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/ascii85demo/v0",
+      "after": "_shots/r-moul-x-daily-ascii85demo-v0-ec09199f-after.png",
+      "url": "r/moul/x/daily/ascii85demo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/ascii85/v0",
+      "after": "_shots/p-moul-x-daily-ascii85-v0-86c2c692-after.png",
+      "url": "p/moul/x/daily/ascii85/v0/",
+      "new": true
+    }
+  ],
+  "pages": 17
+}

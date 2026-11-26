@@ -1,0 +1,38 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/daily/quotedprintabledemo/v0",
+    "gno.land/p/moul/x/daily/quotedprintable/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/daily/quotedprintabledemo/v0",
+    "gno.land/p/moul/x/daily/quotedprintable/v0"
+  ],
+  "changed_files": {
+    "gno.land/p/moul/x/daily/quotedprintable/v0": [
+      "quotedprintable.gno"
+    ],
+    "gno.land/r/moul/x/daily/quotedprintabledemo/v0": [
+      "quotedprintabledemo.gno"
+    ]
+  },
+  "new": [
+    "gno.land/p/moul/x/daily/quotedprintable/v0",
+    "gno.land/r/moul/x/daily/quotedprintabledemo/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/daily/quotedprintabledemo/v0",
+      "after": "_shots/r-moul-x-daily-quotedprintabledemo-v0-8a29b421-after.png",
+      "url": "r/moul/x/daily/quotedprintabledemo/v0/",
+      "new": true
+    },
+    {
+      "pkg": "gno.land/p/moul/x/daily/quotedprintable/v0",
+      "after": "_shots/p-moul-x-daily-quotedprintable-v0-377f907c-after.png",
+      "url": "p/moul/x/daily/quotedprintable/v0/",
+      "new": true
+    }
+  ],
+  "pages": 17
+}

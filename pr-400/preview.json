@@ -1,0 +1,26 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/mdpack/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/mdpack/v0"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/x/mdpack/v0": [
+      "mdpack.gno"
+    ]
+  },
+  "new": [
+    "gno.land/r/moul/x/mdpack/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/mdpack/v0",
+      "after": "_shots/r-moul-x-mdpack-v0-caf0071f-after.png",
+      "url": "r/moul/x/mdpack/v0/",
+      "new": true
+    }
+  ],
+  "pages": 10
+}

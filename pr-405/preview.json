@@ -1,0 +1,26 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/x/grc20aliases/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/x/grc20aliases/v0"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/x/grc20aliases/v0": [
+      "aliases.gno"
+    ]
+  },
+  "new": [
+    "gno.land/r/moul/x/grc20aliases/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/x/grc20aliases/v0",
+      "after": "_shots/r-moul-x-grc20aliases-v0-02ff2a8a-after.png",
+      "url": "r/moul/x/grc20aliases/v0/",
+      "new": true
+    }
+  ],
+  "pages": 8
+}

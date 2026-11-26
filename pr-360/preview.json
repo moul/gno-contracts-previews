@@ -1,0 +1,27 @@
+{
+  "mode": "pr",
+  "changed": [
+    "gno.land/r/moul/smallgrants/v0"
+  ],
+  "paths": [
+    "gno.land/r/moul/smallgrants/v0"
+  ],
+  "changed_files": {
+    "gno.land/r/moul/smallgrants/v0": [
+      "grants.gno",
+      "render.gno"
+    ]
+  },
+  "new": [
+    "gno.land/r/moul/smallgrants/v0"
+  ],
+  "pairs": [
+    {
+      "pkg": "gno.land/r/moul/smallgrants/v0",
+      "after": "_shots/r-moul-smallgrants-v0-6421cb67-after.png",
+      "url": "r/moul/smallgrants/v0/",
+      "new": true
+    }
+  ],
+  "pages": 7
+}
